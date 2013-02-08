@@ -1,0 +1,898 @@
+/faf/r/default.asp,Please choose below:,Choisir ci-dessous :
+/faf/r/default.asp,"I want to start a Team, become a Team Captain and help collect donations from friends and family. ","Je souhaite mettre une équipe sur pied, en être le capitaine et solliciter des dons auprès d'amis et de membres de ma famille."
+/faf/r/default.asp,I want to join an existing Team and help collect donations from friends and family.,Je veux joindre les rangs d'une équipe et solliciter des dons auprès d'amis et de membres de ma famille.
+/faf/r/default.asp,"I want to join as an individual participant, not linked to a Team, and help collect donations from friends and family. ","Je souhaite participer sur une base individuelle, sans lien avec une équipe, et solliciter des dons auprès d'amis et de membres de ma famille."
+/faf/r/default.asp,I want to register multiple people with one transaction. They will work separately to help collect donations from friends and family and each have their own personal page. ,Je veux inscrire plusieurs personnes dans une seule transaction. Elles travailleront séparément pour recueillir des dons d’amis et de membres de la famille et ont chacun leur propre page personnelle.
+/faf/r/default.asp,I want to register several people with one transaction. They will work together to collect donations from friends and family and share a personal page. ,Je veux inscrire plusieurs personnes avec une seule transaction. Elles travailleront ensemble pour recueillir des dons d’amis et de membres de la famille et partageront une même page personnelle.
+/faf/r/default.asp,Register,Inscription
+/faf/r/default.asp,Multiple People,Plusieurs personnes
+/faf/r/default.asp,Participant Name,Nom de participant
+/faf/r/default.asp,Start,Créer
+/faf/r/default.asp,a Team,une équipe
+/faf/r/default.asp,Join,Joindre
+/faf/r/default.asp,as an Individual,en tant qu'individu
+/faf/r/default.asp,Start,Créer
+/faf/r/default.asp,a Team,une équipe
+/faf/r/default.asp,Click here for help,Cliquer ici pour obtenir de l'aide
+/faf/r/default.asp,Family,Famille
+/faf/teams/registerTeam.asp,Please choose below:,Choisir ci-dessous :
+/faf/teams/registerTeam.asp,"I want to start a Team, become a Team Captain and help collect donations from friends and family. ","Je souhaite mettre une équipe sur pied, en être le capitaine et solliciter des dons auprès d'amis et de membres de ma famille."
+/faf/teams/registerTeam.asp,I want to join an existing Team and help collect donations from friends and family.,Je veux joindre les rangs d'une équipe et solliciter des dons auprès d'amis et de membres de ma famille.
+/faf/teams/registerTeam.asp,"I want to join as an individual participant, not linked to a Team, and help collect donations from friends and family. ","Je souhaite participer sur une base individuelle, sans lien avec une équipe, et solliciter des dons auprès d'amis et de membres de ma famille."
+/faf/teams/registerTeam.asp,Start a Team,Créer une équipe
+/faf/teams/registerTeam.asp,"If you form a new Team, you will be designated as the Team Captain.","Si vous formez une nouvelle équipe, vous serez désigné capitaine de cette dernière."
+/faf/teams/registerTeam.asp,Display icon in Team Listing notifying site visitors that you are looking for Team Members,Afficher l'icône dans Formation d'équipe pour indiquer aux visiteur que vous êtes à la recherche de membres pour votre équipe
+/faf/teams/registerTeam.asp,Team name,Nom de l'équipe 
+/faf/teams/registerTeam.asp,Team Fundraising Goal,Objectif de collecte de fonds de l'équipe 
+/faf/teams/registerTeam.asp,Recruiting Goal (Number of Team members),Objectif de recrutement 
+/faf/teams/registerTeam.asp,Join an existing Team,Joignez-vous à une équipe existante
+/faf/teams/registerTeam.asp,Join,Joindre
+/faf/teams/registerTeam.asp,as an Individual,en tant qu'individu
+/faf/teams/registerTeam.asp,Start,Créer
+/faf/teams/registerTeam.asp,Please select a Team,Veuillez sélectionner une équipe
+/faf/teams/registerTeam.asp,a Team,une équipe
+/faf/teams/registerTeam.asp,Click here for help,Cliquer ici pour obtenir de l'aide
+/faf/teams/registerTeam.asp,Use the following list to find an existing Team to join:,Consultez la liste suivante pour trouver une équipe à laquelle vous joindre :
+/faf/teams/registerTeam.asp,Click here,Cliquez ici
+/faf/teams/registerTeam.asp,to find teams accepting new members from the public.,pour trouver des équipes qui acceptent de nouveaux membres provenant du public.
+/faf/teams/registerTeam.asp,Continue,Poursuivre
+/faf/reg_new/registerPre.asp,You are logged in as,Mon nom d'utilisateur est
+/faf/reg_new/registerPre.asp,"If you want to submit this form for someone else,","Si vous désirez soumettre ce formulaire au nom d'une autre personne,"
+/faf/reg_new/registerPre.asp,Create Username and Password,Créer un nom d'utilisateur et un mot de passe
+/faf/reg_new/registerPre.asp,Username,Nom d'utilisateur 
+/faf/reg_new/registerPre.asp,Password,Mot de passe
+/faf/reg_new/registerPre.asp,(between 5 and 20 characters),(entre 5 et 20 caractères)
+/faf/reg_new/registerPre.asp,Re-Type password,Entrez de nouveau votre mot de passe 
+/faf/reg_new/registerPre.asp,Security Question,Question de sécurité 
+/faf/reg_new/registerPre.asp,Security Answer,Réponse de sécurité 
+/faf/reg_new/registerPre.asp,Remember me,Retenir mon nom d'utilisateur et mon mot de passe
+/faf/reg_new/registerPre.asp,...and you can also use your social media login,... et vous pouvez aussi utiliser votre nom d’utilisateur des médias sociaux suivants
+/faf/reg_new/registerPre.asp,Use your login from,Utilisez votre nom d'utilisateur de
+/faf/reg_new/registerPre.asp,Use Sphere login,Utilisez mon profil Sphere
+/faf/reg_new/registerPre.asp,Please fill out the form below:,Veuillez remplir le formulaire ci-dessous :
+/faf/reg_new/registerPre.asp,Click here for help,Cliquer ici pour obtenir de l'aide
+/faf/reg_new/registerPre.asp,required information,Renseignements obligatoires
+/faf/reg_new/registerPre.asp,-- please make a selection --,-- veuillez effectuer une sélection --
+/faf/reg_new/registerPre.asp,What is your mother's maiden name,Quel est le nom de jeune fille de votre mère
+/faf/reg_new/registerPre.asp,What is your favorite restaurant,Quel est votre restaurant préféré
+/faf/reg_new/registerPre.asp,What is your favorite sports team,Quelle est votre équipe sportive préférée
+/faf/reg_new/registerPre.asp,Who was your childhood hero,Qui a été le héros de votre jeunesse
+/faf/reg_new/registerPre.asp,Who is your favorite celebrity of all time,Qui est votre vedette préférée de tous les temps
+/faf/reg_new/registerPre.asp,click here,cliquez ici
+/faf/reg_new/registerPre.asp,"If you are completing this form for yourself and have participated in any Friends Asking Friends in the past,","Si vous remplissez ce formulaire en votre propre nom et que vous avez déjà participé à un événement Friends Asking Friends, "
+/faf/reg_new/registerPre.asp,to login and autofill this form.,pour vous connecter et remplir le formulaire automatiquement.
+/faf/r/selectRegType.asp,Register Multiple People - Please choose below:,Inscription plusieurs personnes - s.v.p choisir ci-dessous
+/faf/r/selectRegType.asp,Click here for help,Cliquer ici pour obtenir de l'aide
+/faf/r/selectRegType.asp,Add all people to a Team that you create. The first person you create will be the Team Captain.,Ajouter tous les participants à une équipe que vous créez. La première personne que vous créez sera le chef de l'équipe.
+/faf/r/selectRegType.asp,Add all people to an existing Team.,Ajouter toutes les personnes à une équipe existante.
+/faf/r/selectRegType.asp,Add all people as Individuals who are not associated with a Team.,Ajouter tous les personnes qui ne sont pas associées à une équipe comme participants individuels.
+/faf/r/selectRegType.asp,Start,Créer
+/faf/r/selectRegType.asp,Join an existing Team,Joignez-vous à une équipe existante
+/faf/r/selectRegType.asp,Join,Joindre
+/faf/r/selectRegType.asp,Add,Ajouter
+/faf/r/selectRegType.asp,Please select a Team,Veuillez sélectionner une équipe
+/faf/r/selectRegType.asp,a Team,une équipe
+/faf/r/selectRegType.asp,Individuals,individus
+/faf/r/selectRegType.asp,"If you form a new Team, you will be designated as the Team Captain.","Si vous formez une nouvelle équipe, vous serez désigné capitaine de cette dernière."
+/faf/r/selectRegType.asp,Display icon in Team Listing notifying site visitors that you are looking for Team Members,Afficher l'icône dans Formation d'équipe pour indiquer aux visiteur que vous êtes à la recherche de membres pour votre équipe
+/faf/r/selectRegType.asp,Team name,Nom de l'équipe 
+/faf/r/selectRegType.asp,Team Fundraising Goal,Objectif de collecte de fonds de l'équipe 
+/faf/r/selectRegType.asp,Recruiting Goal (Number of Team members),Objectif de recrutement 
+/faf/r/selectRegType.asp,Use the following list to find an existing Team to join:,Consultez la liste suivante pour trouver une équipe à laquelle vous joindre :
+/faf/r/selectRegType.asp,Click here,Cliquez ici
+/faf/r/selectRegType.asp,to find teams accepting new members from the public.,pour trouver des équipes qui acceptent de nouveaux membres provenant du public.
+/faf/r/selectRegType.asp,Register Family - Please choose below:,Inscrire une famille - s.v.p choisir ci-dessous
+/faf/r/registerPre.asp,Create Username and Password,Créer un nom d'utilisateur et un mot de passe
+/faf/r/registerPre.asp,Username,Nom d'utilisateur 
+/faf/r/registerPre.asp,Password,Mot de passe
+/faf/r/registerPre.asp,(between 5 and 20 characters),(entre 5 et 20 caractères)
+/faf/r/registerPre.asp,Re-Type password,Entrez de nouveau votre mot de passe 
+/faf/r/registerPre.asp,Security Question,Question de sécurité 
+/faf/r/registerPre.asp,Security Answer,Réponse de sécurité 
+/faf/r/registerPre.asp,Remember me,Retenir mon nom d'utilisateur et mon mot de passe
+/faf/r/registerPre.asp,...and you can also use your social media login,... et vous pouvez aussi utiliser votre nom d’utilisateur des médias sociaux suivants
+/faf/r/registerPre.asp,Use your login from,Utilisez votre nom d'utilisateur de
+/faf/r/registerPre.asp,Use Sphere login,Utilisez mon profil Sphere
+/faf/r/registerPre.asp,Please fill out the form below:,Veuillez remplir le formulaire ci-dessous :
+/faf/r/registerPre.asp,Click here for help,Cliquer ici pour obtenir de l'aide
+/faf/r/registerPre.asp,required information,Renseignements obligatoires
+/faf/r/registerPre.asp,-- please make a selection --,-- veuillez effectuer une sélection --
+/faf/r/registerPre.asp,What is your mother's maiden name,Quel est le nom de jeune fille de votre mère
+/faf/r/registerPre.asp,What is your favorite restaurant,Quel est votre restaurant préféré
+/faf/r/registerPre.asp,What is your favorite sports team,Quelle est votre équipe sportive préférée
+/faf/r/registerPre.asp,Who was your childhood hero,Qui a été le héros de votre jeunesse
+/faf/r/registerPre.asp,Who is your favorite celebrity of all time,Qui est votre vedette préférée de tous les temps
+/faf/r/registerPre.asp,click here,cliquez ici
+/faf/r/registerPre.asp,"If you are completing this form for yourself and have participated in any Friends Asking Friends in the past,","Si vous remplissez ce formulaire en votre propre nom et que vous avez déjà participé à un événement Friends Asking Friends, "
+/faf/r/registerPre.asp,to login and autofill this form.,pour vous connecter et remplir le formulaire automatiquement.
+/includes/INC_help.asp,Registration Information,Renseignements sur l'inscription
+/includes/INC_help.asp,"To participate as a fundraiser you may choose one of three options: Start a Team, Join a Team, or Join as an Individual.","Pour participer et solliciter des fonds, vous devez choisir l’une des trois options suivantes : former une équipe, vous joindre à une équipe ou participer individuellement."
+/includes/INC_help.asp,"When you start a Team, you designate yourself as Team Captain, choose a name for your Team, and actively solicit Team members who will join your efforts to raise money for your selected cause or organization.","Si vous formez une équipe, vous devez vous désigner comme capitaine, choisir un nom d’équipe et inviter activement d’autres membres à se joindre à vous dans vos efforts pour recueillir des fonds."
+/includes/INC_help.asp,When you Join a Team you are joining a Team that was already formed by a Team Captain. You will be asked to search for and select the Team by the Team name.  You may want to contact the Team Captain for the Team name if needed.,"Si vous joignez à une équipe, cela veut dire que vous adhérez à une équipe qui a déjà été formée par un capitaine. Vous devrez rechercher et choisir l’équipe selon son nom. Vous pouvez communiquer avec le capitaine pour connaître le nom de l’équipe, au besoin."
+/includes/INC_help.asp,"If you choose the Join as an Individual option, you are registering to help raise money on your own without the help of Team members.","Si vous choisissez de participer de façon individuelle, vous vous engagez à recueillir des fonds par vous-même, sans l’aide d’autres membres."
+/includes/INC_help.asp,Username and Password,Nom d’utilisateur et mot de passe 
+/includes/INC_help.asp,"The username and password you create helps the system identify you any time you log in to send emails, check donations from your friends and family, and use the other tools that may be available to you. You will also be asked to choose a ""security question"" from the drop down box. By choosing a question and filling in the answer in the text box, you will allow us to provide you with your username and password in the event you forget it in the future. This is just one way in which your privacy and the security of online donations are protected. All fields marked with an * are required fields.","Le nom d'utilisateur et le mot de passe que vous allez créer permettra au système de vous identifier lorsque vous ouvrirez une session pour envoyer des courriels, de consulter les dons de vos amis et de votre famille, et d'utiliser les autres outils mis à votre disposition. Vous devrez aussi sélectionner une question de sécurité dans la liste déroulante. En choisissant une question et en indiquant la réponse correspondante dans la zone de texte, vous nous permettrez de vous communiquer votre nom d'utilisateur et votre mot de passe si vous les oubliez. Cette mesure est l’une des multiples façons pour nous de protéger votre vie privée ainsi que d’assurer la sécurité des dons en ligne. Les champs marqués d’un astérisque (*) sont obligatoires."
+/includes/INC_help.asp,This organization is requesting this information to properly register you.  All fields marked with an * are required fields.  That means that you must input the requested information in those text boxes in order to proceed to the next step and be registered.,Les renseignements demandés sont nécessaires pour compléter votre inscription. Tous les champs identifiés d'un astérisque (*) sont obligatoires. Vous devez donc compléter chaque champ avec les renseignements appropriés afin d'accéder à une prochaine étape de votre inscription. 
+/includes/INC_help.asp,"Use this box to enter a donation.  This is optional, but a great way to get started.  After you enter a donation amount and complete the rest of the registration form you will be taken to another secure page to enter your credit card information.","Indiquez le montant de votre don dans cette case. Cette étape est facultative, il s'agit par contre d'une excellente façon de commencer. Après avoir indiqué le montant de votre don et rempli le formulaire d'inscription, vous serez redirigé vers une page sécurisée où vous pourrez entrer les renseignements concernant votre carte de crédit."
+/includes/INC_help.asp,Use this text box to list your fundraising goal.  Your goal amount will be listed on your Team and/or personal donation page to continually motivate you and all visitors to your personal page to reach and surpass your goal.,"Indiquez votre objectif de financement dans cette zone de texte. Le montant de votre objectif sera affiché sur la page de don personnelle et (ou) sur celle de votre équipe, afin que vous et tous ceux qui visitent votre page demeuriez motivés à atteindre et même à dépasser votre objectif."
+/includes/INC_help.asp,Fundraising Goal,Objectif de collecte de fonds 
+/includes/INC_help.asp,Donation,Don 
+/includes/INC_help.asp,Close,Fermer
+/search/searchTeam.asp,Click on the Team for Participant information:,Cliquez sur le nom de l'équipe pour obtenir de l'information sur les participants
+/search/searchTeam.asp,Team Statistics,Statistiques de l'équipe
+/search/searchTeam.asp,Indicates Team is accepting new members from the public.,Indique que l'équipe accepte des nouveaux membres du public
+/search/searchTeam.asp,Team Captain,Capitaine de l'équipe
+/search/searchTeam.asp,Team Name,Nom de l'équipe 
+/search/searchTeam.asp,Donation Total,Total des dons
+/search/searchTeam.asp,There are 0 names that match your criteria,Aucun nom ne correspond à vos critères
+/faf/login/loginParticipantPopUp.asp,Please login to autopopulate the form:,Veuillez ouvrir une session pour que le formulaire se remplisse automatiquement :
+/faf/login/loginParticipantPopUp.asp,Forgot Username and/or Password?,Vous avez oublié votre nom d'utilisateur et/ou votre mot de passe?
+/faf/login/loginParticipantPopUp.asp,Username,Nom d'utilisateur 
+/faf/login/loginParticipantPopUp.asp,Password,Mot de passe
+/faf/login/loginParticipantPopUp.asp,Remember me,Retenir mon nom d'utilisateur et mon mot de passe
+/faf/login/loginParticipantPopUp.asp,Please be assured that the information provided on this form will only be made available to,Soyez assuré que l'information fournie sur ce formulaire sera utilisée uniquement par
+/faf/login/loginParticipantPopUp.asp,Incorrect Login: Please try again.,Données de connexion incorrectes. Essayez de nouveau.
+/faf/error/errorEvent.asp,You are already an event Participant,Vous participez déjà à cet événement.
+/faf/error/errorEvent.asp,"You are already a Participant for this event. To register another user, please","Vous êtes déjà inscrit comme participant à cet événement. Pour l’inscription d’un autre utilisateur, veuillez"
+/faf/error/errorEvent.asp,logout,fermer la session
+/faf/error/errorEvent.asp,then go back to Participant Registration.,puis revenez à l’inscription des participants.
+/faf/error/errorEvent.asp,Go to,Aller à
+/faf/error/errorEvent.asp,Homepage,à la page d'accuei
+/faf/login/loginParticipant.asp,Incorrect Login: Please try again.,Données de connexion incorrectes. Essayez de nouveau.
+/faf/login/loginParticipant.asp,Forgot Username and/or Password?,Vous avez oublié votre nom d'utilisateur et/ou votre mot de passe?
+/faf/login/loginParticipant.asp,Are you a registered Participant?,Êtes-vous un participant inscrit?
+/faf/login/loginParticipant.asp,"If you are not already a Participant, ","Si vous n'êtes pas déjà inscrit,"
+/faf/login/loginParticipant.asp,click here to register,Cliquez ici pour vous inscrire
+/faf/login/loginParticipant.asp,Access your personalized headquarters by entering your username and password.,Accédez à votre quartier général en entrant votre nom d'utilisateur et votre mot de passe
+/faf/login/loginParticipant.asp,Please login below:,Ouvrir une session :
+/faf/login/loginParticipant.asp,Use an existing login,Utilisez un nom d'utilisateur existante
+/faf/login/loginParticipant.asp,Username,Nom d'utilisateur 
+/faf/login/loginParticipant.asp,Password,Mot de passe
+/faf/login/loginParticipant.asp,Remember me,Retenir mon nom d'utilisateur et mon mot de passe
+/faf/login/loginParticipant.asp,Use your login from,Utilisez votre nom d'utilisateur de
+/faf/login/loginParticipant.asp,or,ou
+/faf/login/loginFindPassword.asp,Password Reset Request,Demande d'un nouveau mot de passe
+/faf/login/loginFindPassword.asp,Enter your User Name,Inscrivez votre nom d’utilisateur
+/faf/login/loginFindPassword.asp,You will receive a reset password link via the E-mail address on record for this User Name,"Vous recevrez par courriel, à l’adresse inscrite au dossier correspondant à ce nom d’utilisateur, un lien à suivre pour réinitialiser votre mot de passe"
+/faf/login/loginFindPassword.asp,Enter your E-mail address,Inscrivez votre adresse électronique
+/faf/login/loginFindPassword.asp,"You will receive an e-mail to reset your password (Please note this must be the e-mail address on file). Additionally, you will need to answer the Security challenge question on record",(Il doit s’agir de l’adresse que vous avez soumise précédement.) Vous recevrez un courriel pour réinitialiser votre mot de passe. Vous devrez alors répondre à la question de sécurité inscrite au dossier
+/faf/login/loginFindPassword.asp,"Can't retrieve your username or password using the options above, please contact","Impossible d'extraire votre nom d'utilisateur et votre mot de passe à l'aide des options ci-dessus, veuillez contacter "
+/faf/login/loginFindPassword.asp,for assistance,pour obtenir de l’aide
+/faf/login/loginFindPassword.asp,"Forgot your password? No problem, you can reset it","Vous avez oublié votre mot de passe? Pas de problème, vous pouvez le réactiver."
+/faf/login/loginFindPassword.asp,User Name not Found,Nom d'usager pas trouvé.
+/faf/login/loginFindPassword.asp,"The User Name submitted was not found. Please resubmit your User Name on record to receive a reset password link. Also check your caps Lock Key and verify it is ""off"" before you enter and re-submit your User Name.","Le nom d'usager soumis n'a pas été trouvé. Veuillez le soumettre encore pour recevoir un lien pour réinitialiser votre mot de passe. Aussi, verifiez que votre touche majuscule n'est pas mise avant que vous entrer et soumettez à nouveau votre nom d'usager."
+/faf/login/loginFindPassword.asp,Re-enter User Name ,Entrer à nouveau votre nom d'usager
+/faf/login/loginFindPassword.asp,Can't remember your User Name or E-mail address; or you have not yet set up a challenge question and response?,Vous avez oublié votre nom d'usager ou adresse de courriel ; ou vous n'avez pas configuré votre question de sécurité ?
+/faf/login/loginFindPassword.asp,An E-mail will be sent to the E-mail address associated with your record. The E-mail will contain your User Name and a link to reset your password.,Un courriel sera envoyé a l'adresse courriel associée à votre compte. Ce courriel contiendra votre nom d'usager ainsi qu'un lien afin de réinitialiser votre mot de passe. 
+/faf/login/loginFindPassword.asp,The reset password link is time sensitive and will expire within 3 days.,Le lien de réinitialisation de votre mot de passe expirera d'ici 3 jours.
+/faf/login/loginFindPassword.asp,Send the reset password link to,Envoyez le lien de réinitialisation du mot de passe à
+/faf/login/loginFindPassword.asp,What is your mother's maiden name,Quel est le nom de jeune fille de votre mère
+/faf/reg_new/register.asp,Complete form for someone else,Complétez le formulaire pour une autre personne
+/faf/reg_new/register.asp,Unlock autofilled form and allow me to modify my profile,Veuillez déverrouiller le formulaire complété automatiquement pour que je puisse modifier mon profil
+/faf/reg_new/register.asp,You are logged in as,Mon nom d'utilisateur est
+/faf/reg_new/register.asp,"If you want to submit this form for someone else,","Si vous désirez soumettre ce formulaire au nom d'une autre personne,"
+/faf/reg_new/register.asp,Please fill out the form below:,Veuillez remplir le formulaire ci-dessous :
+/faf/reg_new/register.asp,Personal Information,Renseignements personnels
+/faf/reg_new/register.asp,required information,Renseignements obligatoires
+/faf/reg_new/register.asp,Title:,Salutation :
+/faf/reg_new/register.asp,First Name,Prénom 
+/faf/reg_new/register.asp,First name,Prénom 
+/faf/reg_new/register.asp,Last Name,Nom 
+/faf/reg_new/register.asp,Last name,Nom 
+/faf/reg_new/register.asp,Email,Courriel 
+/faf/reg_new/register.asp,Address Line 1,Adresse ligne 1 
+/faf/reg_new/register.asp,Address Line 2,Adresse ligne 2 
+/faf/reg_new/register.asp,Address,Adresse
+/faf/reg_new/register.asp,Zip/Postal Code:,Code postal :
+/faf/reg_new/register.asp,City,Ville 
+/faf/reg_new/register.asp,State,État
+/faf/reg_new/register.asp,ZIP/Postal Code,Code postal 
+/faf/reg_new/register.asp,Phone,Téléphone 
+/faf/reg_new/register.asp,Cell Phone:,Cellulaire :
+/faf/reg_new/register.asp,Country,Pays 
+/faf/reg_new/register.asp,Alternate Phone:,Autre numéro de téléphone :
+/faf/reg_new/register.asp,Birth Date,Date de naissance 
+/faf/reg_new/register.asp,please make a selection,veuillez effectuer une sélection
+/faf/reg_new/register.asp,-- None selected --, -- aucune sélection -- 
+/faf/reg_new/register.asp,Gender,Sexe 
+/faf/reg_new/register.asp,Male,Masculin
+/faf/reg_new/register.asp,Female,Féminin
+/faf/reg_new/register.asp,Emergency Contact Phone,Téléphone de la personne à contacter en cas d'urgence
+/faf/reg_new/register.asp,Emergency Contact,Personne à contacter en cas d'urgence
+/faf/reg_new/register.asp,Fees,Droits
+/faf/reg_new/register.asp,Fundraising Goal,Objectif de collecte de fonds 
+/faf/reg_new/register.asp,: No Fee, : Aucuns droits
+/faf/reg_new/register.asp,General Registration,Inscription générale
+/faf/reg_new/register.asp,(mm/dd/yyyy),(MM/JJ/AAAA)
+/faf/reg_new/register.asp,Currently shown: CDN Dollar,Actuellement indiquée : dollars CAD
+/faf/reg_new/register.asp,Currency shown: US Dollar,Devise affichée : dollar US
+/faf/reg_new/register.asp,Currency shown: CDN Dollar,Devise affichée : dollars CAD
+/faf/reg_new/register.asp,*Currency shown: Canadian Dollar,*Devise affichée : dollar canadien
+/faf/reg_new/register.asp,Payment Information,Renseignements sur le paiement
+/faf/reg_new/register.asp,Additional Donation Amount,Montant du don supplémentaire 
+/faf/reg_new/register.asp,Card Holder Name,Nom du détenteur de la carte
+/faf/reg_new/register.asp,Credit Card Number,Numéro de la carte de crédit
+/faf/reg_new/register.asp,CVV Number,Code de sécurité 
+/faf/reg_new/register.asp,Credit Card Type,Type de carte de crédit 
+/faf/reg_new/register.asp,Credit Card Expiration,Date d'expiration 
+/faf/reg_new/register.asp,Explain,Expliquer
+/faf/reg_new/register.asp,Amount:,Montant :
+/faf/reg_new/register.asp,Click here for help,Cliquer ici pour obtenir de l'aide
+/faf/reg_new/register.asp,"We encourage you to collect donations from your colleagues, friends and family and now you can do it all online. Set your fundraising goal here so that they can help you reach your goal.","Nous vous encourageons à recueillir des dons auprès de vos parents, amis et collègues maintenant que vous pouvez le faire en ligne. Établissez votre objectif de collecte ici afin qu’ils puissent vous aider à l’atteindre."
+/faf/reg_new/register.asp,Donation,Don 
+/faf/reg_new/register.asp,If the billing information is the same check this box,Cochez cette case si les renseignements sur la facturation sont les mêmes
+/faf/reg_new/register.asp,If not please fill out the information below:,"Si non, veuillez compléter les renseignements ci-dessous :"
+/faf/reg_new/register.asp,Billing Information,Renseignements sur la facturation
+/faf/reg_new/register.asp,Billing,Facturation
+/faf/reg_new/register.asp,Amount Due,Montant souscrit
+/faf/reg_new/register.asp,You can take your first step in supporting ,Franchissez une première étape en appuyant 
+/faf/r/register.asp,Title:,Salutation :
+/faf/r/register.asp,First Name,Prénom 
+/faf/r/register.asp,Last Name,Nom 
+/faf/r/register.asp,Email,Courriel 
+/faf/r/register.asp,Address Line 1,Adresse ligne 1 
+/faf/r/register.asp,Address Line 2,Adresse ligne 2 
+/faf/r/register.asp,City,Ville 
+/faf/r/register.asp,State,État
+/faf/r/register.asp,ZIP/Postal Code,Code postal 
+/faf/r/register.asp,Phone,Téléphone 
+/faf/r/register.asp,Cell Phone:,Cellulaire :
+/faf/r/register.asp,Country,Pays 
+/faf/r/register.asp,Alternate Phone:,Autre numéro de téléphone :
+/faf/r/register.asp,Birth Date,Date de naissance 
+/faf/r/register.asp,please make a selection,veuillez effectuer une sélection
+/faf/r/register.asp,-- None selected --, -- aucune sélection -- 
+/faf/r/register.asp,Gender,Sexe 
+/faf/r/register.asp,Male,Masculin
+/faf/r/register.asp,Female,Féminin
+/faf/r/register.asp,Emergency Contact Phone,Téléphone de la personne à contacter en cas d'urgence
+/faf/r/register.asp,Emergency Contact,Personne à contacter en cas d'urgence
+/faf/r/register.asp,Fees,Droits
+/faf/r/register.asp,Fundraising Goal,Objectif de collecte de fonds 
+/faf/r/register.asp,(mm/dd/yyyy),(MM/JJ/AAAA)
+/faf/r/register.asp,Amount:,Montant :
+/faf/r/register.asp,General Registration,Inscription générale
+/faf/r/register.asp,Click here for help,Cliquer ici pour obtenir de l'aide
+/faf/r/register.asp,Donation,Don
+/faf/r/Review.asp,Participant Name,Nom de participant
+/faf/r/Review.asp,Totals,Total
+/faf/r/Review.asp,Position,Rôle
+/faf/r/Review.asp,Grand Total:,Grand Total :
+/faf/r/Review.asp,Edit,Modifier
+/faf/r/confirmation.asp,"Individuals press CONTINUE below to login to your event headquarters, send emails and track your progress.","Les participants individuels peuvent cliquer sur le bouton POURSUIVRE ci-dessous pour se connecter au portail de leur événement, envoyer des courriels et suivre l'évolution de leur collecte de fonds."
+/faf/r/confirmation.asp,Families and individuals who registered more than one person during the registration process will receive a link to access your password in a separate email.,"Si vous êtes plusieurs participants à vous être inscrits en même temps, vous recevrez chacun, par courriel, un lien vous donnant accès à votre mot de passe."
+/faf/r/confirmation.asp,The following summarizes your information:,Voici le résumé des renseignements vous concernant  :
+/faf/r/confirmation.asp,Total Registration Amount,Frais d'inscription totaux
+/faf/r/confirmation.asp,Your Supporter ID:,Votre code de participant :
+/faf/r/confirmation.asp,Charity number,Numéro de charité
+/faf/r/confirmation.asp,You will receive this confirmation via email,Vous recevrez une confirmation par courrier électronique
+/faf/r/confirmation.asp,Continue,Poursuivre
+/faf/r/confirmation.asp,Email Address,Adresse électronique 
+/faf/reg_new/donorRecognition.asp,"Click the preview button below to see how your dedication will look in the honor roll. If you want to change your honor roll entry, do so on the Dedication page, and click the preview button again to see your changes here.","Cliquez sur «Prévisualiser» ci-dessous pour voir à quoi ressemblera votre message de reconnaissance dans le tableau d’honneur. Si vous souhaitez modifier votre entrée au tableau d’honneur, faites-le à partir de cette page. Cliquez de nouveau sur «Aperçu» pour voir vos modifications."
+/faf/reg_new/donorRecognition.asp,You can choose to have your donation recognized on your personal page. Please confirm how you would like to be recognized on the honor roll scroll:,"Vous pouvez afficher votre don sur votre page personnelle. Svp, confirmez le nom qui apparaitra sur le tableau d'honneur:"
+/faf/reg_new/donorRecognition.asp,Dedication,Hommage
+/faf/reg_new/donorRecognition.asp,Anonymous,Anonyme
+/faf/reg_new/donorRecognition.asp,Recognition From,Reconnaissance de la part de
+/faf/reg_new/donorRecognition.asp,Recognition To,Reconnaissance envers
+/faf/reg_new/donorRecognition.asp,Recognition Type,Type de reconnaissance
+/faf/reg_new/donorRecognition.asp,"Yes, I would like to show my donation amount scrolling.","Oui, je veux que le montant de mon don soit affiché dans la barre de défilement"
+/faf/reg_new/donorRecognition.asp,In Honor Of,En l'honneur de
+/faf/reg_new/donorRecognition.asp,In Honour Of,En l'honneur de
+/faf/reg_new/donorRecognition.asp,In Memory Of,À la mémoire de
+/faf/reg_new/donorRecognition.asp,In Support Of,En appui à
+/faf/reg_new/donorRecognition.asp,None,Aucun
+/faf/reg_new/donorRecognition.asp,Continue,Poursuivre
+/faf/reg_new/donorRecognition.asp,Preview,Prévisualiser
+/faf/reg_new/donorRecognition.asp,Other,Autre
+/faf/reg_new/honorRollPreview.asp,Honor Roll,Tableau d’honneur
+/faf/reg_new/honorRollPreview.asp,Preview,Prévisualiser
+/faf/reg_new/honorRollPreview.asp,From,de
+/faf/reg_new/honorRollPreview.asp,In Honor Of,En l'honneur de
+/faf/reg_new/honorRollPreview.asp,In Honour Of,En l'honneur de
+/faf/reg_new/honorRollPreview.asp,In Memory Of,À la mémoire de
+/faf/reg_new/honorRollPreview.asp,In Support Of,En appui à
+/faf/login/checkPartLogin.asp,Get your PDF donation receipt,Recevez votre reçu en format PDF
+/faf/login/checkPartLogin.asp,You need the Adobe Acrobat reader to view this receipt,Vous avez besoin d'Adobe Acrobat Reader pour afficher ce reçu.
+/faf/login/checkPartLogin.asp,"Individuals press CONTINUE below to login to your event headquarters, send emails and track your progress.","Les participants individuels peuvent cliquer sur le bouton POURSUIVRE ci-dessous pour se connecter au portail de leur événement, envoyer des courriels et suivre l'évolution de leur collecte de fonds."
+/faf/login/checkPartLogin.asp,Families and individuals who registered more than one person during the registration process will receive a link to access your password in a separate email.,"Si vous êtes plusieurs participants à vous être inscrits en même temps, vous recevrez chacun, par courriel, un lien vous donnant accès à votre mot de passe."
+/faf/login/checkPartLogin.asp,The following summarizes your information:,Voici le résumé des renseignements vous concernant  :
+/faf/login/checkPartLogin.asp,Donation Amount,Montant du don 
+/faf/login/checkPartLogin.asp,Reference ID,Numéro de référence 
+/faf/login/checkPartLogin.asp,contact information:,coordonnées du contact :
+/faf/login/checkPartLogin.asp,Email Address,Adresse électronique 
+/faf/login/checkPartLogin.asp,You will receive this confirmation via email,Vous recevrez une confirmation par courrier électronique
+/faf/login/checkPartLogin.asp,here,ici
+/faf/login/checkPartLogin.asp,Continue,Poursuivre
+/faf/login/partMenu.asp,My Fundraising Goal:,Mon objectif de collecte de fonds :
+/faf/login/partMenu.asp,"Welcome,",Bienvenue
+/faf/login/partMenu.asp,New to your Headquarters?,Vous n'êtes pas un(e) habitué(e) de sites personnalisés?
+/faf/login/partMenu.asp,Start here!,Commencez ici!
+/faf/login/partMenu.asp,My To Do List,Ma liste de choses à faire
+/faf/login/partMenu.asp,Download the Mobile Fundraising App,Téléchargez l'application de collecte de fonds sur votre portable (disponible en anglais seulement)
+/faf/login/partMenu.asp,Build/Edit my Webpage,Créer/Mettre en forme ma page personnelle
+/faf/login/partMenu.asp,Send Emails to Friends and Family,Envoyer un courriel à mes amis et à ma famille
+/faf/login/partMenu.asp,Enter Offline Donations,Ajouter les dons hors ligne
+/faf/login/partMenu.asp,Edit my Profile,Modifier mon profil
+/faf/login/partMenu.asp,Edit my Login/Password,Modifier mon nom d’utilisateur ou mon mot de passe
+/faf/login/partMenu.asp,Check the Message Board,Consulter le babillard
+/faf/login/partMenu.asp,See Important Dates,Voir les dates importantes
+/faf/login/partMenu.asp,Email Statistics,Statistiques sur les courriels
+/faf/login/partMenu.asp,Emails Sent:,Courriels envoyés :
+/faf/login/partMenu.asp,Send More Emails,Envoyer d'autres courriels
+/faf/login/partMenu.asp,Visits to My Pages:,Nombre de visites sur ma page personnelle :
+/faf/login/partMenu.asp,Number of Donations:,Nombre de dons :
+/faf/login/partMenu.asp,Number of Registrations:,Nombre d'inscriptions :
+/faf/login/partMenu.asp,Fundraising Statistics,Résultats de ma collecte de fonds
+/faf/login/partMenu.asp,Change My Goal,Modifier mon objectif
+/faf/login/partMenu.asp,View My Reports,Afficher mes rapports
+/faf/login/partMenu.asp,Money Raised to Date,Somme recueillie à ce jour
+/faf/login/page_edit.asp,Edit Personal Page ,Modifier ma page personnelle 
+/faf/login/page_edit.asp,View Personal Page ,Afficher ma page personnelle 
+/faf/login/page_edit.asp,Edit Team Page,Modifier la page de mon équipe
+/faf/login/page_edit.asp,View Team Page,Afficher la page de mon équipe
+/faf/login/page_edit.asp,Edit your Personal Page,Modifier ma page personnelle
+/faf/login/page_edit.asp,Header Text:,En-tête :
+/faf/login/page_edit.asp,Line 2,Ligne 2 
+/faf/login/page_edit.asp,Line 1,Ligne 1 
+/faf/login/page_edit.asp,Webpage image,Choisissez votre image
+/faf/login/page_edit.asp,You may use the default image or,"Vous pouvez utiliser l'image par défaut,"
+/faf/login/page_edit.asp,select,sélectionner
+/faf/login/page_edit.asp,an image from the library or,une image de la bibliothèque ou
+/faf/login/page_edit.asp,upload,télécharger
+/faf/login/page_edit.asp,your own,votre propre image
+/faf/login/page_edit.asp,Preview webpage,Visualisez votre page personnelle
+/faf/login/page_edit.asp,View your page as others will see it!,Affichez votre page telle qu'elle apparaîtra à vos visiteurs.
+/faf/login/page_edit.asp,Finish webpage,Complétez votre page personnelle
+/faf/login/page_edit.asp,"To complete your webpage or to save changes, click Submit","Pour compléter votre page personnelle ou enregistrer les changements, cliquez sur « Soumettre »"
+/faf/login/page_edit.asp,Submit,Soumettre
+/faf/login/page_edit.asp,Cancel,Annuler
+/faf/login/page_edit.asp,Caption under image,Légende 
+/faf/login/page_edit.asp,Edit the text:,Modifier le texte :
+/faf/login/page_edit.asp,Preview,Prévisualiser
+/faf/emailCenter/email.asp,Email Center,    Envoyer
+/faf/emailCenter/email.asp,Compose your email here and send it off to your current/potential donors. Create your own email message or select a template.,"Rédigez votre courriel ici et envoyez-le à vos parents, amis et collègues pour solliciter des dons. Pour ce faire, créez votre message personnalisé ou sélectionnez l'un de nos modèles"
+/faf/emailCenter/email.asp,Compose Email Message,Rédiger le message
+/faf/emailCenter/email.asp,"To send an email, use your address book to select existing addresses or create a new one.","Pour envoyer un courriel, consultez votre carnet d'adresses électroniques pour y sélectionner une adresse existante ou pour en ajouter de nouvelles."
+/faf/emailCenter/email.asp,From,Expéditeur 
+/faf/emailCenter/email.asp,Sender Email:,Expéditeur du courriel :
+/faf/emailCenter/email.asp,Greeting,Salutation
+/faf/emailCenter/email.asp,Recipient Email,Adresse électronique du destinataire
+/faf/emailCenter/email.asp,ADDRESS BOOK,Carnet d'adresses
+/faf/emailCenter/email.asp,You can send this email to up to 30 people!,Vous pouvez faire parvenir ce courriel à une trentaine de personnes!
+/faf/emailCenter/email.asp,Total recipients,Nombre total de destinataires
+/faf/emailCenter/email.asp,Template,Modèle
+/faf/emailCenter/email.asp,Blank,Vide
+/faf/emailCenter/email.asp,Save As,Enregistrer sous
+/faf/emailCenter/email.asp,(c)common template (p)private template,(c)modèle courant (p)modèle privé
+/faf/emailCenter/email.asp,Subject,Objet 
+/faf/emailCenter/email.asp,Highlighted,En évidence
+/faf/emailCenter/email.asp,What's this?,De quoi s'agit-il?
+/faf/emailCenter/email.asp,(Your personal donation page link will be appended to the bottom of your email),(Le lien de votre page de dons personnelle apparaîtra au bas de votre courriel)
+/faf/emailCenter/email.asp,Body: ,Corps : 
+/faf/emailCenter/email.asp,Preview Email,Aperçu du courriel
+/faf/emailCenter/email.asp,Send Email,Envoyer
+/faf/emailCenter/email.asp,Required Information,Renseignements obligatoires
+/faf/emailCenter/email.asp,Explain,Expliquer
+/faf/emailImport/Import_default.asp,Address Book Import ,Importation du carnet d'adresses
+/faf/email/emailLog.asp,Email History Log ,Historique des messages
+/faf/email/emailLog.asp,Use this email log to check who you have sent email to and how they have responded.,Ce registre de messages vous permet de voir à qui vous avez écrit et quelle a été la réponse obtenue.
+/faf/email/emailLog.asp,"To re-send emails to individuals, check the box next to their names and click the link at the bottom.","Pour envoyer de nouveau un courriel à quelqu'un, cochez la case près de son nom, puis cliquez le lien au bas de la page."
+/faf/email/emailLog.asp,to view the most recent email log information,pour afficher l'information la plus récente du registre de messages
+/faf/email/emailLog.asp,Update Log,Mettre le registre à jour
+/faf/email/emailLog.asp,Click,Cliquer
+/faf/email/emailLog.asp,There are no records that match your criteria,Aucun document ne correspond à vos critères
+/faf/login/participantStats.asp,Additional Amount Not Reflected,Montant additionnel non reflété
+/faf/login/participantStats.asp,Donation Statistics,Statistiques des dons
+/faf/login/participantStats.asp,View By,Afficher par 
+/faf/login/participantStats.asp,Progress Towards Your Goal,État d’avancement
+/faf/login/participantStats.asp,Confirmed Amount Raised,Montant recueilli confirmé
+/faf/login/participantStats.asp,Online Amount - online processing(ie. credit cards),Montant recueilli en ligne (par carte de crédit)
+/faf/login/participantStats.asp,"Offline Amount - (checks, cash, charge and inkind)","Montant recueilli hors ligne (chèques, argent comptant, débit)"
+/faf/login/participantStats.asp,Current Balance,Solde courant
+/faf/login/participantStats.asp,"Your registration fee, if applicable, has been included in the current balance figure","Vos droits d'inscription sont inclus dans le solde courant, s'il y a lieu"
+/faf/login/participantStats.asp,records per page,dossiers par page
+/faf/login/participantStats.asp,records,enregistrements
+/faf/login/participantStats.asp,record,enregistrement
+/faf/login/participantStats.asp,Prev,Précédente
+/faf/login/participantStats.asp,Next,Suivant
+/faf/login/participantStats.asp,Check with the organization to determine if the registration fee is counted towards the receipt of fundraising prizes,Vérifiez auprès de la Société si les droits d'inscription versés sont pris en compte dans le calcul du montant recueilli
+/faf/login/participantStats.asp,Export XLS,Exporter un fichier XLS (en anglais seulement)
+/faf/login/participantStats.asp,Choose Columns,Choisissez les colonnes
+/faf/login/participantStats.asp,Printable,Version imprimable
+/faf/login/participantStats.asp,First Name,Prénom 
+/faf/login/participantStats.asp,Last Name,Nom 
+/faf/login/participantStats.asp,Company,Entreprise
+/faf/login/participantStats.asp,Title,Salutation
+/faf/login/participantStats.asp,State,État
+/faf/login/participantStats.asp,Email Address,Courriel
+/faf/login/participantStats.asp,City,Ville 
+/faf/login/participantStats.asp,Country,Pays
+/faf/login/participantStats.asp,Payment Type,Mode de paiement
+/faf/login/participantStats.asp,Address Line 1,Adresse ligne 1 
+/faf/login/participantStats.asp,in Report,dans le rapport
+/faf/login/participantStats.asp,Address Line 2,Adresse ligne 2 
+/faf/login/participantStats.asp,Business Phone,Téléphone travail
+/faf/login/participantStats.asp,Phone,Téléphone 
+/faf/login/participantStats.asp,Postal Code/ZIP,Code postal 
+/faf/login/participantStats.asp,Outstanding Amount,Montant impayé
+/faf/login/participantStats.asp,Amount,Montant
+/faf/login/participantStats.asp,Payment Status,État du paiement
+/faf/login/participantStats.asp,Payment Date,Date du paiement
+/faf/login/participantStats.asp,Desc,Descr.
+/faf/login/participantStats.asp,Check Number,Numéro de chèque
+/faf/login/participantStats.asp,Donation Report,Rapport des dons
+/faf/login/participantStats.asp,Paid,Payé
+/faf/login/participantStats.asp,Unpaid,Non payé
+/faf/login/participantStats.asp,Showing,Affichage
+/faf/login/participantStats.asp, of ,enregistrements sur
+/faf/login/participantStats.asp,Address,Addresse
+/faf/login/participantStats.asp,Team,Équipe
+/faf/login/participantStats.asp,Close,Fermer
+/faf/partDonorReg/pledgeEntry.asp,"Your pledge entry history is displayed. ""Pending"" donations refer to donations that have not been cleared by the organization. As soon as they are confirmed, those donations are marked as received and can be viewed in your donation report.","Votre historique des promesses de dons est affiché. Les dons ""en attente"" sont ceux qui ne sont pas confirmés par la Société. Dès qu'ils seront confirmés, ces dons seront marqués ""reçu"" et pourront être vus dans votre rapport des dons."
+/faf/partDonorReg/pledgeEntry.asp,"To enter new donations, click the ""Enter Pledge"" button.","Pour inscrire des nouveaux dons, cliquez sur le bouton ""Inscrire une promesse de don""."
+/faf/partDonorReg/pledgeEntry.asp,"To view the details of donations that are still pending, click the ""View Pending"" next to the date the donations were entered.","Pour voir les détails des dons qui demeurent 'en attente', cliquez ""Rapport sommaire des promesses de don"" à côté de la date ou ils ont été entrés."
+/faf/partDonorReg/pledgeEntry.asp,Pledge Entry History,Historique d’inscription des dons
+/faf/partDonorReg/pledgeEntry.asp,Event ID#,Code d'événement 
+/faf/partDonorReg/pledgeEntry.asp,Event Name,Nom de l'événement 
+/faf/partDonorReg/pledgeEntry.asp,Participant ID#,Numéro d’identification du participant 
+/faf/partDonorReg/pledgeEntry.asp,No pledge entry history,Aucun historique d’inscription des dons
+/faf/partDonorReg/offlineDonationEntry.asp,"Use this form to enter any offline donations or pledges that you receive.  These entries will be marked as ""Pending"" in your reports area until they have been received and cleared by the organization.",Utilisez ce formulaire pour consigner les dons reçus autrement qu’en ligne. Ces dons porteront la mention « en attente » dans la section des rapports jusqu’à ce que vous en ayez reçu le paiement et qu’ils aient été approuvés par la Société de recherche sur le cancer.
+/faf/partDonorReg/offlineDonationEntry.asp,"When you are finished, click ""Submit"".  You will have the opportunity to enter more donations on the next page.","Lorsque vous aurez terminé, cliquez sur « Soumettre ». Vous pourrez inscrire d’autres dons sur la page suivante"
+/faf/partDonorReg/offlineDonationEntry.asp,Donation Entry,Inscription des dons
+/faf/partDonorReg/offlineDonationEntry.asp,Donor Information,Renseignements sur le donateur
+/faf/partDonorReg/offlineDonationEntry.asp,Title:,Salutation :
+/faf/partDonorReg/offlineDonationEntry.asp,First Name,Prénom 
+/faf/partDonorReg/offlineDonationEntry.asp,Last Name,Nom 
+/faf/partDonorReg/offlineDonationEntry.asp,Email,Courriel 
+/faf/partDonorReg/offlineDonationEntry.asp,Address Line 1,Adresse ligne 1 
+/faf/partDonorReg/offlineDonationEntry.asp,Address Line 2,Adresse ligne 2 
+/faf/partDonorReg/offlineDonationEntry.asp,City,Ville 
+/faf/partDonorReg/offlineDonationEntry.asp,State,État
+/faf/partDonorReg/offlineDonationEntry.asp,ZIP/Postal Code,Code postal 
+/faf/partDonorReg/offlineDonationEntry.asp,Phone,Téléphone 
+/faf/partDonorReg/offlineDonationEntry.asp,Cell Phone:,Cellulaire :
+/faf/partDonorReg/offlineDonationEntry.asp,Country,Pays 
+/faf/partDonorReg/offlineDonationEntry.asp,Alternate Phone:,Autre numéro de téléphone :
+/faf/partDonorReg/offlineDonationEntry.asp,Birth Date,Date de naissance 
+/faf/partDonorReg/offlineDonationEntry.asp,please make a selection,veuillez effectuer une sélection
+/faf/partDonorReg/offlineDonationEntry.asp,-- None selected --, -- aucune sélection -- 
+/faf/partDonorReg/offlineDonationEntry.asp,Gender,Sexe 
+/faf/partDonorReg/offlineDonationEntry.asp,Male,Masculin
+/faf/partDonorReg/offlineDonationEntry.asp,Female,Féminin
+/faf/partDonorReg/offlineDonationEntry.asp,Emergency Contact Phone,Téléphone de la personne à contacter en cas d'urgence
+/faf/partDonorReg/offlineDonationEntry.asp,Emergency Contact,Personne à contacter en cas d'urgence
+/faf/partDonorReg/offlineDonationEntry.asp,Donation Report,Rapport des dons
+/faf/partDonorReg/offlineDonationEntry.asp,Print Donation Form,Imprimer le formulaire d’inscription des dons
+/faf/partDonorReg/offlineDonationEntry.asp,Donation,Don
+/faf/partDonorReg/offlineDonationEntry.asp,Payment Type,Mode de paiement
+/faf/partDonorReg/offlineDonationEntry.asp,CHECK,Chèque
+/faf/partDonorReg/offlineDonationEntry.asp,CASH,Comptant
+/faf/partDonorReg/offlineDonationEntry.asp,Check Number,Numéro de chèque
+/faf/partDonorReg/offlineDonationEntry.asp,Instructions,Directives
+/faf/partDonorReg/pledgeSummary.asp,Pledge Summary Report for this Batch,Rapport sommaire des promesses de dons pour ce lot
+/faf/partDonorReg/pledgeSummary.asp,Total Amount entered:,Montant total enregistré :
+/faf/partDonorReg/pledgeSummary.asp,Total Amount Pending:,Montant total non payé :
+/faf/partDonorReg/pledgeSummary.asp,Payment ID,No du paiement
+/faf/partDonorReg/pledgeSummary.asp,Donor Name,Nom du donateur
+/faf/partDonorReg/pledgeSummary.asp,Check#,No du chèque
+/faf/partDonorReg/pledgeSummary.asp,Click this button to enter another pledge.,Cliquez ce bouton pour inscrire une nouvelle promesse de don.
+/faf/partDonorReg/pledgeSummary.asp,"When you have finished entering your pledge(s), click this button to access a printable Pledge Summary Report for the pledge entry(ies) you just entered.","Quand vous avez terminé d'entrer vos promesses de dons, cliquez ce bouton pour accéder à une version imprimable du sommaire des promesses de dons."
+/faf/partDonorReg/pledgeSummary.asp,Batch ID#,Numéro d’identification du lot
+/faf/partDonorReg/pledgeSummary.asp,Event Name,Nom de l'événement 
+/faf/partDonorReg/pledgeSummary.asp,Participant ID#,Numéro d’identification du participant 
+/faf/partDonorReg/pledgeSummary.asp,Event ID#,Code d'événement 
+/faf/partDonorReg/pledgeSummary.asp,Event Name,Nom de l'événement 
+/faf/partDonorReg/pledgeSummary.asp,Name,Nom
+/faf/partDonorReg/pledgeSummary.asp,Address,Addresse
+/faf/partDonorReg/pledgeSummary.asp,Amount,Montant
+/faf/partDonorReg/pledgeSummary.asp,Click this button when you are ready to return to the main Pledge Entry History page. From this page you can view and print all of your previous Pledge Summary Reports if needed.,"Cliquez ce bouton lorsque vous êtes prêt à retourner à la page principale de l'historique des promesses de dons. À partir de cette page, vous pouvez consulter et imprimer tous vos rapports précédents si nécessaire."
+/faf/partDonorReg/pledgeSummary.asp,Delete,Supprimer
+/faf/update/updateProfile.asp,Team Recruiting Goal,Objectif de recrutement 
+/faf/update/updateProfile.asp,Edit Profile,Modifier mon profil
+/faf/update/updateProfile.asp,You can update your profile information here. Just fill out the fields below,Vous pouvez procéder à la mise à jour de vos renseignements personnels. Remplissez les champs ci-dessous
+/faf/update/updateProfile.asp,Please fill out the fields below,Veuillez remplir les champs ci-dessous 
+/faf/update/updateProfile.asp,User Profile,Profil d'utilisateur 
+/faf/update/updateProfile.asp,Title:,Salutation :
+/faf/update/updateProfile.asp,First Name,Prénom 
+/faf/update/updateProfile.asp,Last Name,Nom 
+/faf/update/updateProfile.asp,Email Notifications,Avis de réception des courriels
+/faf/update/updateProfile.asp,Email,Courriel 
+/faf/update/updateProfile.asp,Address Line 1,Adresse ligne 1 
+/faf/update/updateProfile.asp,Address Line 2,Adresse ligne 2 
+/faf/update/updateProfile.asp,City,Ville 
+/faf/update/updateProfile.asp,State,État
+/faf/update/updateProfile.asp,ZIP/Postal Code,Code postal 
+/faf/update/updateProfile.asp,Phone,Téléphone 
+/faf/update/updateProfile.asp,Cell Phone:,Cellulaire :
+/faf/update/updateProfile.asp,Country,Pays 
+/faf/update/updateProfile.asp,Alternate Phone:,Autre numéro de téléphone :
+/faf/update/updateProfile.asp,Birth Date,Date de naissance 
+/faf/update/updateProfile.asp,please make a selection,veuillez effectuer une sélection
+/faf/update/updateProfile.asp,-- None selected --, -- aucune sélection -- 
+/faf/update/updateProfile.asp,Gender,Sexe 
+/faf/update/updateProfile.asp,Male,Masculin
+/faf/update/updateProfile.asp,Female,Féminin
+/faf/update/updateProfile.asp,Emergency Contact Phone,Téléphone de la personne à contacter en cas d'urgence
+/faf/update/updateProfile.asp,Emergency Contact,Personne à contacter en cas d'urgence
+/faf/update/updateProfile.asp,Event Information,Renseignements sur l'activité
+/faf/update/updateProfile.asp,Show Money Raised to Date on Personal /Team Page,Afficher le montant recueilli à ce jour sur votre page personnelle ou la page d'équipe
+/faf/update/updateProfile.asp,Fundraising Goal,Objectif de collecte de fonds 
+/faf/update/updateProfile.asp,"To join another Team, select the Team name in the dropdown box:","Pour vous joindre à une autre équipe, sélectionnez le nom d'une équipe dans le menu déroulant"
+/faf/update/updateProfile.asp,No Team,Aucune équipe
+/faf/update/updateProfile.asp,I want to start my own team and become a Team Captain,Je souhaite former ma propre équipe et en être le capitaine
+/faf/update/updateProfile.asp,Notify me by email when somebody donates to me,Avisez-moi par courriel chaque fois que quelqu'un fait un don à mon nom
+/faf/update/updatePassword.asp,Edit Login ,Modifier mon accès 
+/faf/update/updatePassword.asp,"To modify your login, please make changes to the fields below","Pour modifier vos renseignements de connexion, veuillez compléter les champs ci-dessous"
+/faf/update/updatePassword.asp,Username,Nom d'utilisateur 
+/faf/update/updatePassword.asp,Verify Password,Entrez de nouveau votre mot de passe 
+/faf/update/updatePassword.asp,Password,Mot de passe
+/faf/update/updatePassword.asp,Security Question,Question de sécurité 
+/faf/update/updatePassword.asp,Security Answer,Réponse de sécurité 
+/faf/update/updatePassword.asp,What is your mother's maiden name,Quel est le nom de jeune fille de votre mère
+/faf/update/updatePassword.asp,What is your favorite restaurant,Quel est votre restaurant préféré
+/faf/update/updatePassword.asp,What is your favorite sports team,Quelle est votre équipe sportive préférée
+/faf/update/updatePassword.asp,Who was your childhood hero,Qui a été le héros de votre jeunesse
+/faf/update/updatePassword.asp,Who is your favorite celebrity of all time,Qui est votre vedette préférée de tous les temps
+/faf/update/updatePasswordSubmitreg.asp,Your Login has been Updated,Vos données de connexion ont été mises à jour
+/faf/update/updatePasswordSubmitreg.asp,Your login information has been updated.,Vos données de connexion ont été mises à jour
+/faf/update/updatePasswordSubmitreg.asp,Back to 'My Headquarters',Retour à 'Mon portail'
+/faf/update/updateConfirmation.asp,Your profile has been updated with your new information,Votre profil a été mis à jour avec vos nouvelles informations
+/faf/update/updateConfirmation.asp,Your Profile has been Updated,Votre profil a été mis à jour
+/faf/update/updateConfirmation.asp,Back to 'My Headquarters',Retour à 'Mon portail'
+/faf/partDonorReg/pledgeEntry.asp,Name,Nom
+/faf/partDonorReg/pledgeEntry.asp,Pledge Summary Report,Rapport sommaire des promesses de don
+/faf/partDonorReg/pledgeEntry.asp,Entry Date,Date de réception
+/faf/partDonorReg/pledgeEntry.asp,Batch ID#,Numéro d’identification du lot
+/faf/partDonorReg/pledgeEntry.asp,Total Entered,Total reçu
+/faf/partDonorReg/pledgeEntry.asp,Pending,En attente
+/faf/community/EventBoard.asp,Bulletin Board,Babillard collecte de fonds
+/faf/community/EventBoard.asp,You can be the first one to post a message here. please click,Vous pouvez être la première personne à afficher un message sur cette page. Cliquez sur : 
+/faf/community/EventBoard.asp,Post Message,Afficher un message
+/faf/community/EventBoard.asp,Previous,Précédent
+/faf/community/EventBoard.asp,Topics,Sujets
+/faf/community/EventBoard.asp,# of Replies,Nombre de réponses
+/faf/community/EventBoard.asp,Author,Auteur
+/faf/community/EventBoard.asp,By,Par 
+/faf/community/EventBoard.asp,At,le 
+/faf/community/EventBoard.asp,Reply,Répondre
+/faf/community/EventBoard.asp,Print,Imprimer
+/faf/community/postMsgFrm.asp,Post a Message,Afficher un message
+/faf/community/postMsgFrm.asp,Message Body,Corps du message
+/faf/community/postMsgFrm.asp,Useful Web Links,Liens utiles
+/faf/community/postMsgFrm.asp,Add,Ajouter
+/faf/community/postMsgFrm.asp,Edit,Modifier
+/faf/community/postMsgFrm.asp,Delete,Supprimer
+/faf/community/postMsgFrm.asp,Subject,Objet 
+/faf/community/EventBoard.asp,Next,Suivant
+/faf/community/EventBoard.asp,Useful Web Links,Liens utiles
+/faf/help/dates.asp,Important Dates,Dates importantes
+/faf/help/dates.asp,No Record,Aucun enregistrement
+/faf/community/CoachCorner.asp,Coach's Corner,Information pour entraîneurs
+/faf/community/CoachCorner.asp,You can be the first one to post a message here. please click,Vous pouvez être la première personne à afficher un message sur cette page. Cliquez sur : 
+/faf/community/CoachCorner.asp,Post Message,Afficher un message
+/faf/login/gadgets.asp,Add these Gadgets to your Community Page,Ajoutez ces gadgets dans votre page de collectivité
+/faf/login/gadgets.asp,Honor Roll:,Tableau d’honneur :
+/faf/login/gadgets.asp,Copy the code below to your community page to display your honor roll,Copiez le code ci-dessous dans votre page collectivité pour afficher votre tableau d’honneur
+/faf/login/gadgets.asp,Embed,Incorporer 
+/faf/login/gadgets.asp,Participant Thermometer,Thermomètre participant
+/faf/login/gadgets.asp,Thermometer,Thermomètre
+/faf/login/gadgets.asp,Copy the code below to your community page to display your thermometer,Copiez le code ci-dessous dans votre page collectivité pour afficher votre thermomètre
+/faf/help/helpLoginFirstTime.asp,Welcome to your Event Headquarters! ,Bienvenue au portail de votre événement!
+/faf/help/helpLoginFirstTime.asp,This is your private area to check on donations you receive and email friends and family,Cette section privée vous permet de consulter les dons reçus et d’envoyer des courriels à vos parents et amis
+/faf/help/helpLoginFirstTime.asp,Step One,Première étape 
+/faf/help/helpLoginFirstTime.asp,"To start off, first go to the ""My Webpage"" section to edit your 'Personal Page'. This is the page your donors will see; so give it your own touch by adding a picture and information about you and your reasons for participating in the event.",Allez à la section « Ma page personnelle » pour modifier votre « page personnelle ». Cette page est celle que verront vos donateurs. Vous pouvez la personnaliser en y ajoutant une image et de l’information à votre sujet ainsi que les raisons pour lesquelles vous participez à l’événement.
+/faf/help/helpLoginFirstTime.asp,Edit your personal page now,Modifier la page personnelle maintenant
+/faf/help/helpLoginFirstTime.asp,Step Two,Deuxième étape 
+/faf/help/helpLoginFirstTime.asp,"Next, start your email campaign to solicit friends and family for donations and to build your team.  The email message will automatically include a direct link back to your personal page to make it as easy as possible for them to make a donation or join your team","Commencez votre campagne par courriel en sollicitant des dons auprès de vos parents et amis, et réunissez votre équipe. Le courriel inclura automatiquement un lien direct vers votre page personnelle afin que les personnes sollicitées puissent facilement faire un don ou se joindre à votre équipe"
+/faf/help/helpLoginFirstTime.asp,Start your email campaign now,Commencer votre campagne par courriel maintenant
+/faf/help/helpLoginFirstTime.asp,Step Three,Troisième étape 
+/faf/help/helpLoginFirstTime.asp,"Visit your ""Reports"" area often and see how you are doing!  Utilize the other convenient tools to help you reach your goal!",Visitez la section « Rapports » régulièrement afin de suivre l’évolution de votre campagne. Ne manquez pas d’utiliser les autres outils pratiques pour vous aider à atteindre votre objectif! 
+/faf/help/helpLoginFirstTime.asp,See your reports now,Voir vos rapports maintenant
+/faf/help/helpLoginFirstTime.asp,Close Window,Fermer
+/faf/help/helpFaq.asp,Who is Blackbaud?,Qui est Blackbaud?
+/faf/help/helpFaq.asp,What is unique about this website?,Qu’est-ce qui rend ce site web unique ?
+/faf/help/helpFaq.asp,Is my information secure?,Mes renseignements sont-ils sécurisés ?
+/faf/help/helpFaq.asp,What is the long website address for that I received in my confirmation receipt?,À quoi sert la longue adresse web que j’ai reçue dans mon accusé réception ?
+/faf/help/helpFaq.asp,Can friends and family make a donation to a Participant by going through the main website?,Est-il possible pour parents et amis de faire un don à un participant en passant par la page principale du site web?
+/faf/help/helpFaq.asp,Is a portion of the registration fee a donation?,Est-ce qu’une partie des frais d’enregistrement représente un don ? 
+/faf/help/helpFaq.asp,"Why is the ""Sponsor Participant "" search not finding the Participant that I know has registered?",Pourquoi ma recherche « Soutenez un participant » ne génère-t-elle pas le nom d’un participant que je sais inscrit?
+/faf/help/helpFaq.asp,How can I see who has donated to me?,Comment puis-je savoir qui m’a fait des dons ? 
+/faf/help/helpFaq.asp,I forgot my Username and Password. How can I find out what they are?,J’ai oublié mon nom d’utilisateur et mon mot de passe. Comment puis-je les récupérer ?
+/faf/help/helpFaq.asp,All of my Donors are not showing up on the scroll mechanism. Why?,Mes donateurs ne figurent pas tous sur le menu déroulant. Pourquoi ?
+/faf/help/helpFaq.asp,Will Blackbaud put my name on various mailing lists?,Est-ce que Blackbaud ajoutera mon nom à diverses listes d’envoi ?
+/faf/help/helpFaq.asp,"Why is the ""Sponsor Participant"" search not finding a Participant that I know has registered?",Pourquoi ma recherche « Soutenez un participant » ne génère-t-elle pas le nom d’un participant que je sais inscrit?
+/faf/help/helpFaq.asp,Back to Top,Haut de la page
+/faf/help/helpFaq.asp,"Go to the register here button and complete the form. You will be guided through the registration process. Once your transaction is complete, you will receive a confirmation email receipt.","Cliquez sur le bouton « Inscrivez-vous maintenant » et remplissez le formulaire. Vous serez guidé tout au long du processus d’inscription. Une fois la transaction finalisée, vous recevrez un accusé de réception par courriel."
+/faf/help/helpFaq.asp,"Yes. Blackbaud has made every effort to protect your information. We use industry-standard SSL encryption techniques to make sure that your credit card information, passwords, and personal information travel securely over the Internet. We have also installed an encryption engine on our database server so that your data is securely stored.","Oui. Blackbaud a tout mis en œuvre pour protéger vos renseignements personnels. Nous utilisons des techniques d’incription de données répondant aux normes de l’industrie afin d’assurer la transmission sécuritaire de votre numéro de carte de crédit, de vos mots de passe et de vos renseignements personnels sur Internet. Nous avons également installé un moteur de chiffrement /moteur d’incription sur notre serveur de base de données afin que vos données y soient archivées de façon secure."
+/faf/help/helpFaq.asp,This website address will take you to your personal donation page. This address link is automatically included in any emails that are sent through the email center in event headquarters after you have logged into the website. You can also copy and paste this link into any other form of email.,Cette adresse web vous mènera à votre page de dons personnelle. Ce lien est inclus automatiquement dans tous les courriels envoyés par le centre de courriels du quartier général des événements suivant votre ouverture de session dans le site web. Vous pouvez aussi copier et coller le lien dans n’importe quelle autre forme de courriel.
+/faf/help/helpFaq.asp,"Yes. On the home page of the  website, friends and family can locate a Participant by clicking on the ""Sponsor Participant"" button. By typing in the name of the Participant, they will be directed to the Participant's personalized pledge page.","Oui. Sur la page principale du site, parents et amis peuvent repérer un participant en cliquant le bouton « Soutenez un participant ». En entrant le nom du participant, ils seront dirigés vers sa page de dons personnelle. "
+/faf/help/helpFaq.asp,You must type in the first name or last name of the Participant exactly how it is spelled. It is not case sensitive.,"Vous assurer de taper le prénom et le nom du participant avec précision. La recherche n’est pas sensible à la casse. Si vous avez de la difficulté à trouver un participant que vous savez inscrit, veuillez nous contacter en visitant notre site d’aide à la clientèle et nous communiquerons avec vous."
+/faf/help/helpFaq.asp,Go to the Log-in section on the site. Use the Username and Password that you received when you registered for the event. You can then view your Donor list and the amounts that have been donated.,Rendez-vous sur la section « Ouvrir mon portail /Ouvrir une session» du site. Utilisez le nom d’utilisateur et le mot de passe qui vous ont été attribués au moment de l’inscription. Vous pourrez alors visualiser la liste des donateurs et les montants que vous avez recueillis à jour.
+/faf/help/helpFaq.asp,Remember that your username and password are case sensitive.,N’oubliez pas que votre nom d’utilisateur et votre mot de passe sont sensibles à la casse.
+/faf/help/helpFaq.asp,Click here to find your password,Cliquez ici pour obtenir votre mot de passe
+/faf/help/helpFaq.asp,You will receive an email with your username and password. ,Votre d’utilisateur et votre mot de passe vous seront envoyés par courriel.
+/faf/help/helpFaq.asp,"As your Donors make a contribution, they have the option of whether or not they want to appear in the recognition scroll.","Lorsque vos donateurs font un don, ils ont le choix de figurer ou non sur le menu déroulant."
+/faf/help/helpFaq.asp,"Blackbaud collects and maintains only personal information that is voluntarily submitted to us. We will only share personally identifiable information with a third party if and when the individual submitting this information has permitted us to do so, or if we are required by law to do so. ","La division Kintera de Blackbaud, ne recueille et ne conserve que les renseignements personnels qui lui ont été soumis volontairement. Nous partageons les renseignements personnellement identifiables que si la personne qui a soumis l’information nous en donne la permission, ou si la loi nous y oblige."
+/faf/help/helpFaq.asp,How do I register for the event online?,Comment puis-je m’inscrire l'événement en ligne ?
+/faf/search/searchParticipants.asp,Participant Search and Donate,Rechercher un participant et faire un don
+/faf/search/searchParticipants.asp,It has never been so easy to make a donation to support our Participants and their fundraising goals. Type in the Participant's name below to locate and enter their personalized page. Just click Search and then scroll down to see the results.,Faire un don pour appuyer nos participants et leurs objectifs de collecte de fonds n'a jamais été aussi facile. Entrez le nom du participant ci-dessous pour trouver sa page personnelle et y accéder. Cliquez simplement sur --Rechercher-- et faites défiler les résultats.
+/faf/search/searchParticipants.asp,Enter  Participant's Name:,Entrez le nom du participant :
+/faf/search/searchParticipants.asp,Click on the Participant's name that you would like to make a donation to:,Cliquez sur le nom du participant que vous désirez appuyer par un don :
+/faf/search/searchParticipants.asp,First Name,Prénom 
+/faf/search/searchParticipants.asp,Last Name,Nom 
+/faf/search/searchParticipants.asp,Name,Nom
+/faf/search/searchParticipants.asp,Team,Équipe
+/faf/search/searchParticipants.asp,Please search for a Participant.,Veuillez rechercher un participant
+/faf/search/searchParticipants.asp,City/State,Ville/État
+/faf/search/searchParticipants.asp,Donation Total,Total des dons
+/faf/donorReg/donorPledge.asp,Print Donation Form,Imprimer le formulaire d’inscription des dons
+/faf/donorReg/donorPledge.asp,Thank you for supporting,Merci d'appuyer
+/faf/donorReg/donorPledge.asp,Join us in our efforts to support ,Appuyez comme nous 
+/faf/donorReg/donorPledge.asp,I want to enter the donation in my own name; pre-fill the entry form for me.,Je souhaite faire un don en mon propre nom. (Le formulaire sera prérempli de façon automatique.)
+/faf/donorReg/donorPledge.asp,Please enter a donation amount below:,Veuillez remplir le formulaire ci-dessous :
+/faf/donorReg/donorPledge.asp,Please select a giving level below:,Veuillez remplir le formulaire ci-dessous :
+/faf/donorReg/donorPledge.asp,Make a Donation,Faire un don
+/faf/donorReg/donorPledge.asp,Other Amount,Autre montant 
+/faf/donorReg/donorPledge.asp,Amount,Montant
+/faf/donorReg/donorPledge.asp,close,fermer
+/faf/home/waiver.asp,Waiver/Agreement,Renonciation et décharge
+/faf/home/waiver.asp,"By clicking on ""I Agree,"" you agree, warrant and covenant as follows:","En cliquant sur « J'accepte », vous convenez avoir lu et acceptez ce qui suit :"
+/faf/home/waiver.asp,I agree,J'accepte
+/faf/home/waiver.asp,I decline,Je refuse
+/faf/help/helpAboutOrg.asp,About Our Organization,À propos de notre organisme
+/faf/help/helpEventInfo.asp,Event Info:,Renseignements sur l'activité :
+/faf/help/helpEventInfo.asp,Event Location:,Lieu de l'activité :
+/faf/help/helpEventInfo.asp,Event Schedule:,Calendrier de l'activité :
+/faf/help/helpEventInfo.asp,Event Information,Renseignements sur l'activité
+/faf/help/helpEventInfo.asp,Fees,Droits
+/faf/help/helpEventInfo.asp,: No Fee, : Aucuns droits
+/faf/help/helpEventInfo.asp,General Registration,Inscription générale
+/faf/sponsorasp/catalog.asp,Sponsorship Opportunities,Commanditer des activités
+/faf/email/emailFriend.asp,Spread the Word,Passer le mot
+/faf/email/emailFriend.asp,"Help spread the word! Email your friends, family and co-workers and invite them to visit this site","Aidez à passer le mot! Faites parvenir un courriel à vos amis, à votre famille et à vos collègues pour les inviter à visiter ce site"
+/faf/email/emailFriend.asp,Your First name:,Votre prénom :
+/faf/email/emailFriend.asp,Your email:,Votre courriel :
+/faf/email/emailFriend.asp,Subject Line:,Ligne de mention objet :
+/faf/email/emailFriend.asp,Text that will be added to your email (read only),Texte qui sera ajouté à votre courriel (lecture seulement)
+/faf/email/emailFriend.asp,Text that will be added to your email,Texte qui sera ajouté à votre courriel
+/faf/email/emailFriend.asp,"(Greeting examples: John, John Smith, Dear John, Dr. Smith, Dear Mr. and Mrs. Smith, Hello John, Cherished supporter)","(Exemples de formules de salutation : Jean, Jean Untel, Cher Jean, Dr Untel, Monsieur et madame Untel, Bonjour Jean, Cher allié)"
+/faf/email/emailFriend.asp,Your Last name:,Votre nom de famille :
+/faf/email/emailFriend.asp,Greeting,Salutation
+/faf/email/emailFriend.asp,Email,Courriel 
+/faf/email/emailFriend.asp,Friend,Ami
+/faf/email/emailFriend.asp,Continue,Poursuivre
+/faf/email/emailFriend.asp,Preview,Prévisualiser
+/faf/email/SpreadWordConfirmation.asp,Your email has been sent,Votre courriel a été envoyé
+/faf/email/SpreadWordConfirmation.asp,Thank you for sharing our site with your friends!,Merci de partager notre site avec vos amis!
+/faf/email/SpreadWordConfirmation.asp,Your message has been sent,Votre message a été envoyé
+/faf/email/SpreadWordConfirmation.asp,greatly appreciates your support and time,est très reconnaissante pour votre aide et votre temps
+/faf/email/SpreadWordConfirmation.asp,Send more email,Envoyer d'autres courriels
+/faf/volunteerRegNew/participantGen.asp,Click here for help,Cliquer ici pour obtenir de l'aide
+/faf/volunteerRegNew/participantGen.asp,"If you are completing this form for yourself and have participated in any Friends Asking Friends in the past,","Si vous remplissez ce formulaire en votre propre nom et que vous avez déjà participé à un événement Friends Asking Friends, "
+/faf/volunteerRegNew/participantGen.asp,to login and autofill this form.,pour vous connecter et remplir le formulaire automatiquement.
+/faf/volunteerRegNew/participantGen.asp,click here,cliquez ici
+/faf/volunteerRegNew/participantGen.asp,required information,Renseignements obligatoires
+/faf/volunteerRegNew/participantGen.asp,Registration Information,Renseignements sur l'inscription
+/faf/volunteerRegNew/participantGen.asp,First Name,Prénom 
+/faf/volunteerRegNew/participantGen.asp,Last Name,Nom 
+/faf/volunteerRegNew/participantGen.asp,Email,Courriel 
+/faf/volunteerRegNew/participantGen.asp,Address Line 1,Adresse ligne 1 
+/faf/volunteerRegNew/participantGen.asp,Address Line 2,Adresse ligne 2 
+/faf/volunteerRegNew/participantGen.asp,City,Ville 
+/faf/volunteerRegNew/participantGen.asp,State,État
+/faf/volunteerRegNew/participantGen.asp,ZIP/Postal Code,Code postal 
+/faf/volunteerRegNew/participantGen.asp,Phone,Téléphone 
+/faf/volunteerRegNew/participantGen.asp,Create Username and Password,Créer un nom d'utilisateur et un mot de passe
+/faf/volunteerRegNew/participantGen.asp,Username,Nom d'utilisateur 
+/faf/volunteerRegNew/participantGen.asp,Password,Mot de passe
+/faf/volunteerRegNew/participantGen.asp,Verify password,Entrez de nouveau votre mot de passe 
+/faf/volunteerRegNew/participantGen.asp,Security Question,Question de sécurité 
+/faf/volunteerRegNew/participantGen.asp,Security Answer,Réponse de sécurité 
+/faf/volunteerRegNew/participantGen.asp,What is your mother's maiden name,Quel est le nom de jeune fille de votre mère
+/faf/volunteerRegNew/participantGen.asp,What is your favorite restaurant,Quel est votre restaurant préféré
+/faf/volunteerRegNew/participantGen.asp,What is your favorite sports team,Quelle est votre équipe sportive préférée
+/faf/volunteerRegNew/participantGen.asp,Who was your childhood hero,Qui a été le héros de votre jeunesse
+/faf/volunteerRegNew/participantGen.asp,Who is your favorite celebrity of all time,Qui est votre vedette préférée de tous les temps
+/faf/donorReg/donorBilling.asp,Complete form for someone else,Complétez le formulaire pour une autre personne
+/faf/donorReg/donorBilling.asp,"If you are completing this form for yourself and have participated in any Friends Asking Friends in the past,","Si vous remplissez ce formulaire en votre propre nom et que vous avez déjà participé à un événement Friends Asking Friends, "
+/faf/donorReg/donorBilling.asp,to login and autofill this form.,pour vous connecter et remplir le formulaire automatiquement.
+/faf/donorReg/donorBilling.asp,Unlock autofilled form and allow me to modify my profile,Veuillez déverrouiller le formulaire complété automatiquement pour que je puisse modifier mon profil
+/faf/donorReg/donorBilling.asp,You are logged in as,Mon nom d'utilisateur est
+/faf/donorReg/donorBilling.asp,"If you want to submit this form for someone else,","Si vous désirez soumettre ce formulaire au nom d'une autre personne,"
+/faf/donorReg/donorBilling.asp,Billing Information,Renseignements sur la facturation
+/faf/donorReg/donorBilling.asp,Donor Information,Renseignements sur le donateur
+/faf/donorReg/donorBilling.asp,required information,Renseignements obligatoires
+/faf/donorReg/donorBilling.asp,First Name,Prénom 
+/faf/donorReg/donorBilling.asp,Last Name,Nom 
+/faf/donorReg/donorBilling.asp,Email,Courriel 
+/faf/donorReg/donorBilling.asp,Address Line 1,Adresse ligne 1 
+/faf/donorReg/donorBilling.asp,Address Line 2,Adresse ligne 2 
+/faf/donorReg/donorBilling.asp,City,Ville 
+/faf/donorReg/donorBilling.asp,State,État
+/faf/donorReg/donorBilling.asp,ZIP/Postal Code,Code postal 
+/faf/donorReg/donorBilling.asp,Zip/Postal Code,Code postal 
+/faf/donorReg/donorBilling.asp,Phone,Téléphone 
+/faf/donorReg/donorBilling.asp,Amount Due,Montant souscrit
+/faf/donorReg/donorBilling.asp,Donation Amount,Montant du don
+/faf/donorReg/donorBilling.asp,Payment Information,Renseignements sur le paiement
+/faf/donorReg/donorBilling.asp,Payment Method,Méthode de paiement 
+/faf/donorReg/donorBilling.asp,Card Holder Name,Nom du détenteur de la carte
+/faf/donorReg/donorBilling.asp,Credit Card Number,Numéro de la carte de crédit
+/faf/donorReg/donorBilling.asp,CVV Number,Code de sécurité 
+/faf/donorReg/donorBilling.asp,Credit Card Type,Type de carte de crédit 
+/faf/donorReg/donorBilling.asp,Credit Card Expiration,Date d'expiration 
+/faf/donorReg/donorBilling.asp,Explain,Expliquer
+/faf/donorReg/donorBilling.asp,If the billing address is the same as the,Cochez cette case si les renseignements 
+/faf/donorReg/donorBilling.asp,contact address check this box,sur la facturation sont les mêmes
+/faf/donorReg/donorBilling.asp,If not please fill out the information below,"Si non, veuillez compléter les renseignements ci-dessous "
+/faf/donorReg/donorBilling.asp,Country,Pays 
+/faf/donorReg/donorBilling.asp,click here,cliquez ici
+/faf/search/searchTeamPart.asp,I want to enter the donation in my own name; pre-fill the entry form for me.,Je souhaite faire un don en mon propre nom. (Le formulaire sera prérempli de façon automatique.)
+/faf/search/searchTeamPart.asp,Print Donation Form,Imprimer le formulaire d’inscription des dons
+/faf/search/searchTeamPart.asp,Thank you for supporting,Merci d'appuyer
+/faf/search/searchTeamPart.asp,Join me in my efforts to support ,Appuyez comme nous 
+/faf/search/searchTeamPart.asp,General Team Donation,Dons à l'équipe
+/faf/search/searchTeamPart.asp,Team Members,Membres de l'équipe 
+/faf/search/searchTeamPart.asp,Total Raised,Total recueilli 
+/faf/search/searchTeamPart.asp,Welcome to the Team Page of,Bienvenue sur la page de l'équipe
+/faf/search/searchTeamPart.asp,Make a Donation,Faire un don
+/faf/search/searchTeamPart.asp,Other Amount,Autre montant 
+/faf/login/loginParticipant.asp,Login below,Ouvrez une session ci-dessous
+/faf/reg_new/confirmation.asp,Get your PDF donation receipt,Recevez votre reçu en format PDF
+/faf/reg_new/confirmation.asp,You need the Adobe Acrobat reader to view this receipt,Vous avez besoin d'Adobe Acrobat Reader pour afficher ce reçu.
+/faf/reg_new/confirmation.asp,"Individuals press CONTINUE below to login to your event headquarters, send emails and track your progress.","Les participants individuels peuvent cliquer sur le bouton POURSUIVRE ci-dessous pour se connecter au portail de leur événement, envoyer des courriels et suivre l'évolution de leur collecte de fonds."
+/faf/reg_new/confirmation.asp,Families and individuals who registered more than one person during the registration process will receive a link to access your password in a separate email.,"Si vous êtes plusieurs participants à vous être inscrits en même temps, vous recevrez chacun, par courriel, un lien vous donnant accès à votre mot de passe."
+/faf/reg_new/confirmation.asp,The following summarizes your information:,Voici le résumé des renseignements vous concernant  :
+/faf/reg_new/confirmation.asp,Donation Amount,Montant du don 
+/faf/reg_new/confirmation.asp,Reference ID,Numéro de référence 
+/faf/reg_new/confirmation.asp,contact information:,coordonnées du contact :
+/faf/reg_new/confirmation.asp,Email Address,Adresse électronique 
+/faf/reg_new/confirmation.asp,You will receive this confirmation via email,Vous recevrez une confirmation par courrier électronique
+/faf/reg_new/confirmation.asp,here,ici
+/faf/reg_new/confirmation.asp,Continue,Poursuivre
+/faf/partDonorReg/pledgepophelp.asp,"The Greeting will be inserted at the top of your email. This field is used to address the person to whom you are sending the email. Greeting examples: John, John Smith, Dear John, Dr. Smith, Dear Mr. and Mrs. Smith, Hello John, Cherished supporter. Click the ""Preview"" button for a more detailed layout.","La formule de salutation sera insérée au début de votre message. Ce champ est utilisé pour s'adresser à la personne à qui vous envoyez le courriel. Voici quelques exemples de formules de salutation : Jean, Jean Untel, Cher Jean, Dr Untel, Monsieur et Madame, Bonjour Jean, Cher allié. Cliquez sur le bouton « Aperçu » pour obtenir une mise en page plus détaillée."
+/faf/partDonorReg/pledgepophelp.asp,This amount reflects the total dollars entered for this specific batch on the date listed. It will remain constant and will not decrease as the pending donations are confirmed.,"Cette somme reflète les montants totaux inscrits dans ce lot spécifique, pour la date indiquée. Il demeurera tel quel et ne diminuera pas tant que les dons en attente ne seront pas confirmés."
+/faf/partDonorReg/pledgepophelp.asp,Close,Fermer
+/faf/partDonorReg/pledgepophelp.asp,"This amount reflects the dollars still pending and waiting to be confirmed by the organization. As they are confirmed by the organization, this number will decrease.","Ce montant reflète les dollars encore en suspend. Au fur et à mesure qu'ils seront confirmés par la Société, ce nombre diminuera."
+/faf/partDonorReg/pledgeDescription.asp,Pledge Collection Instructions,Directives
+/faf/partDonorReg/pledgeDescription.asp,"Your pledge entry history is displayed. ""Pending"" donations refer to donations that have not been cleared by the organization. As soon as they are confirmed, those donations are marked as received and can be viewed in your donation report.","Votre historique des promesses de dons est affiché. Les dons ""en attente"" sont ceux qui ne sont pas confirmés par la Société. Dès qu'ils seront confirmés, ces dons seront marqués ""reçu"" et pourront être vus dans votre rapport des dons."
+/faf/partDonorReg/pledgeDescription.asp,"To enter new donations, click the ""Enter Pledge"" button. To view the details of donations that are still pending, click the ""View Pending"" next to the date the donations were entered.","Pour inscrire des nouveaux dons, cliquez sur le bouton ""Inscrire une promesse de don"". Pour voir les détails des dons qui demeurent 'en attente', cliquez ""Rapport sommaire des promesses de don"" à côté de la date ou ils ont été entrés."
+/faf/partDonorReg/pledgeDescription.asp,Close,Fermer
+/autogen/home/choose_column.asp,Amount,Montant
+/autogen/home/choose_column.asp,First Name,Prénom 
+/autogen/home/choose_column.asp,Last Name,Nom 
+/autogen/home/choose_column.asp,Company,Entreprise
+/autogen/home/choose_column.asp,Title,Salutation
+/autogen/home/choose_column.asp,State,État
+/autogen/home/choose_column.asp,Email Address,Courriel
+/autogen/home/choose_column.asp,City,Ville 
+/autogen/home/choose_column.asp,Country,Pays
+/autogen/home/choose_column.asp,Payment Type,Mode de paiement
+/autogen/home/choose_column.asp,Address Line 1,Adresse ligne 1 
+/autogen/home/choose_column.asp,Address Line 2,Adresse ligne 2 
+/autogen/home/choose_column.asp,Phone,Téléphone 
+/autogen/home/choose_column.asp,Postal Code/ZIP,Code postal 
+/faf/emailCenter/emailAddressbook.asp,Add To Group,Ajouter au groupe
+/faf/emailCenter/emailAddressbook.asp,Edit Group,Modifier le groupe
+/faf/emailCenter/emailAddGroup.asp,Create New Group,Créer un nouveau groupe
+/faf/emailCenter/emailAddressbook.asp,"Use the 'View by' dropdown field to change the list of individuals you see within the address book. When you want to send an email, check the box(es) next to the names and click ""Send Email to Selected Contacts"". These names will be added to the Compose Message page.","Utilisez le menu déroulant « Afficher par » pour changer la liste de personnes visibles dans votre carnet d'adresses. Lorsque vous souhaitez envoyer un courriel, cochez les cases près des noms des destinataires, puis cliquez sur « Envoyer un courriel aux contacts sélectionnées ». Ces noms seront ajoutés à la page « Rédiger le message »."
+/faf/emailCenter/emailAddressbook.asp,"To create a new email distribution group, select one or more contacts and click ""Create New Group.""","Afin de créer un nouveau groupe de diffusion, sélectionnez un ou plusieurs contacts, puis cliquez sur « Créer un nouveau groupe »."
+/faf/emailCenter/emailAddressbook.asp,Create New Group,Créer un nouveau groupe
+/faf/emailCenter/emailAddressbook.asp,Main Address Book,Carnet d’adresses principal
+/faf/emailCenter/emailAddressbook.asp,Address Book,Carnet d'adresses
+/faf/emailCenter/emailAddressbook.asp,View By,Afficher par
+/faf/emailCenter/emailAddressbook.asp,All Donors,Tous les donateurs
+/faf/emailCenter/emailAddressbook.asp,Recent Donors,Donateurs récents
+/faf/emailCenter/emailAddressbook.asp,Past Donors,Anciens donateurs
+/faf/emailCenter/emailAddressbook.asp,Close Window,Fermer la fenêtre
+/faf/emailCenter/emailAddressbook.asp,Add New,Ajouter un nouveau
+/faf/emailCenter/emailAddressbook.asp,First Name,Prénom 
+/faf/emailCenter/emailAddressbook.asp,Last Name,Nom 
+/faf/emailCenter/emailAddressbook.asp,Email Address,Courriel
+/faf/emailCenter/emailAddressbook.asp,Edit,Modifier
+/faf/emailCenter/emailAddressbook.asp,There are no records that match your criteria,Aucun document ne correspond à vos critères
+/faf/emailCenter/emailAddGroup.asp,You have no custom distribution groups.,Vous n'avez aucun group de diffusion personalisé.
+/faf/emailCenter/emailAddGroup.asp,"To create a new email distribution group, enter the name below and click ""Save.""  This group will be added to the ""View By"" drop-down list in your Address Book.","Pour créer une nouvelle liste de destinataires, entrez le nom de la liste ci-dessous et appuyez sur « Soumettre ». Ce groupe sera ajouté à la liste déroulante ""Vu par"" ci-dessous dans votre carnet d'adresses."
+/faf/emailCenter/emailAddGroup.asp,Current Group Name,Nom actuel du groupe
+/faf/emailCenter/emailAddGroup.asp,Group Name,Nom de la liste de destinataires
+/faf/emailCenter/emailAddGroup.asp,Cancel,Annuler
+/faf/emailCenter/emailAddGroup.asp,Submit,Soumettre
+/faf/emailCenter/emailAddGroup.asp,Close Window,Fermer la fenêtre
+/faf/emailCenter/emailAddGroup.asp,Edit Groups,Modifier les groupes
+/faf/emailCenter/emailAddGroup.asp,"Note:  When you delete a group, all records in that group will remain in your Main Address Book.","Remarque : Lorsque vous supprimez un groupe, tous les fichiers de cet group demeureront dans votre carnet d'adresses principal."
+/faf/emailCenter/emailAddGroup.asp,Edit,Modifier
+/faf/emailCenter/emailAddGroup.asp,Delete,Supprimer
+/faf/emailCenter/emailEdit.asp,"Note:  To select or de-select multiple groups, hold down the ""Ctrl"" key while clicking.","Remarque : Pour sélectionner ou désélectionner plusiers groupes, appuyer sur ""CTRL"" en faisant vos sélections."
+/faf/emailCenter/emailEdit.asp,Add New Recipient,Ajouter un nouveau destinataire
+/faf/emailCenter/emailEdit.asp,Add New,Ajouter un nouveau
+/faf/emailCenter/emailEdit.asp,First Name,Prénom 
+/faf/emailCenter/emailEdit.asp,Last Name,Nom 
+/faf/emailCenter/emailEdit.asp,Edit Email Recipient,Modifier le destinataire du courriel
+/faf/emailCenter/emailEdit.asp,Email Edit,Modifier le courriel
+/faf/emailCenter/emailEdit.asp,Email,Courriel
+/faf/emailCenter/emailEdit.asp,Group,Groupe
+/faf/emailCenter/emailEdit.asp,Cancel,Annuler
+/faf/emailCenter/emailEdit.asp,Submit,Soumettre
+/faf/emailCenter/emailEdit.asp,Explain,Expliquer
+/faf/emailCenter/emailEdit.asp,Recipient Name,Nom du destinataire
+/faf/emailCenter/emailEdit.asp,Insert,Ajouter
+/faf/emailCenter/emailEdit.asp,Full Name,Nom complet
+/faf/emailCenter/emailEdit.asp,Save,Sauvegarder
+/faf/emailCenter/popUpEmailTemplateSaveAs.asp,Save Email Template As,Enregistrer le modèle de message sous
+/faf/emailCenter/popUpEmailTemplateSaveAs.asp,Template Name,Nom du modèle 
+/faf/emailCenter/popUpEmailTemplateSaveAs.asp,You can have up to ,Vous pouvez créer jusqu'à 
+/faf/emailCenter/popUpEmailTemplateSaveAs.asp,private templates,modèles de messages personnels
+/faf/emailCenter/popUpEmailTemplateSaveAs.asp,Cancel,Annuler
+/faf/emailCenter/popUpEmailTemplateSaveAs.asp,Submit,Soumettre
+/faf/emailCenter/emailPreview.asp,Email Preview,Aperçu du courriel 
+/faf/emailCenter/emailPreview.asp,Close,Fermer
+/faf/emailCenter/emailThankYou.asp,Your Email has been sent,Votre courriel a été envoyé
+/faf/emailCenter/emailThankYou.asp,Thank you! Your email messages have been sent.,Merci !
+/faf/emailCenter/emailThankYou.asp,greatly appreciates your time and support.,vous remercie pour votre appui.
+/faf/emailCenter/emailThankYou.asp,Here are the emails sent:,Des courriels ont été envoyés aux adresses suivantes :
+/faf/emailCenter/emailThankYou.asp,Back to 'My Headquarters' Menu,Retour à 'Mon portail'
+/faf/emailCenter/emailThankYou.asp,Send more email,Envoyer d'autres courriels
+/faf/partDonorReg/pledgepophelp.asp,Use this section to highlight information in your email message. This section will be displayed in bold at the top of your email. Use this to post your fundraising deadline or a motivational message.,Cette section sert à mettre en évidence certains renseignements dans votre courriel. Cette section sera mise en caractère gras dans la partie supérieure de votre message. À utiliser pour afficher l'échéance de votre collecte de fonds ou un message de motivation.
+/faf/emailImport/Import_default.asp,Step3:,Étape 3 :
+/faf/emailImport/Import_default.asp,Import Complete, L'importation est réussi
+/faf/emailImport/Import_default.asp,Step2: Select Contacts,Étape 2 : Choisir les contacts
+/faf/emailImport/Import_default.asp,Add More Contacts,Ajouter des autres contacts
+/faf/emailImport/Import_default.asp,Send Email,Envoyer
+/faf/emailImport/Import_default.asp,contact(s) have been added to your address book.,contact(s) ajouté(s) à votre carnet d'adresse
+/faf/emailImport/Import_default.asp,Step1,Étape 1
+/faf/emailImport/Import_default.asp,Select the E-mail Service,Choisir le fournisseur
+/faf/emailImport/Import_default.asp,Import Wizard Help,Vous avez besoin d’aide
+/faf/emailImport/Setup_default.asp,Address Book Import ,Importation du carnet d'adresses
+/faf/emailImport/Setup_default.asp,Step1: Select the source file,Étape 1 : Sélectionnez le fichier source
+/faf/emailImport/Setup_default.asp,Import Wizard Help,Vous avez besoin d’aide
+/faf/emailImport/Setup_default.asp,"The Import Utility will guide you through the process of importing accounts and contact information into your address book. Answer the questions on each screen and click NEXT when you are ready to continue. You can import any file saved a Comma Seperated Value (CSV). Make sure the file contains First name, Last name, and Email address fields before importing because you will map these fields to fields in Sphere during the import.","Le service d'importation vous indiquera la marche à suivre du processus d'importation des comptes et des coordonnées dans votre carnet d'adresses. Répondez aux questions qui apparaissent sur chaque écran et cliquez sur SUIVANT lorsque vous êtes prêt à continuer. Vous pouvez importer n'importe quel fichier enregistré en format CSV. Assurez-vous que le fichier contient les champs Prénom, Nom de famille et Adresse de courriel avant de l'importer, car vous appliquerez ces champs aux champs de Sphere pendant le processus d'importation."
+/faf/emailImport/Setup_default.asp,Where is the data coming from?,D’où les données proviennent-elles?
+/faf/emailImport/Setup_default.asp?Mode=Step2,Step2: Upload the file,Étape 2 : Téléchargez le fichier
+/faf/emailImport/Setup_default.asp?Mode=Step2,"Most applications (including Microsoft OutLook, Yahoo, or Netscape address book) will allow you to export contact data into a comma delimited text file (.csv). We will import your contacts from a .csv file. Exporting your data is different in each application, but export should follow the same general approach:","La plupart des applications (incluant les listes d'adresses Microsoft Outlook, Yahoo ou Netscape) vous permettront d'exporter les informations de vos contacts dans un fichier ""comma delimited text file (.csv)"". Nous importerons vos contacts à partir d'un fichier .csv. L'exportation de l'information est différente pour chacune des applications. Toutefois,  l'export devrait suivre l'approche générale (nécessitant l'ouverture d'une session)."
+/faf/emailImport/Setup_default.asp?Mode=Step2,Back,Retour
+/faf/emailImport/Setup_default.asp?Mode=Step2,Launch the application and view the contact list,Lancez l'application pour voir la liste de contacts
+/faf/emailImport/Setup_default.asp?Mode=Step2,"Select the Save As... or  Export...menu option, usually from the File menu","Sélectionnez l'option du menu ""Sauvegarder Sous"" ou ""Exporter"", habituellement sous le menu ""Fichier"" "
+/faf/emailImport/Setup_default.asp?Mode=Step2,Follow the direction to save the file in a Comma Separated Value (CSV) format,"Suivre les directives afin de sauvegarder le fichier dans un format ""comma separated value file (.csv)"""
+/faf/emailImport/Setup_default.asp?Mode=Step2,"Now choose the file to import (it may take a few minutes to upload your file, depending on the file size and your connection speed).","Maintenant, sélectionnez le fichier que vous voulez importer (le téléchargement de votre fichier pourrait prendre quelques minutes, en fonction de sa taille et de votre vitesse de connexion)."
+/faf/emailImport/Setup_default.asp?Mode=Step3,Step3:  Map the fields,Étape 3 : Faites correspondre les champs
+/faf/emailImport/Setup_default.asp?Mode=Step3,Contact Information,Coordonnées du contact
+/faf/emailImport/Setup_default.asp?Mode=Step3,"In the list below, select the field in your import file that should be imported into each field.","Pour chaque champ dans la liste ci-dessous, sélectionnez le champ correspondant dans votre fichier source"
+/faf/emailImport/Setup_default.asp?Mode=Step3,First Name,Prénom 
+/faf/emailImport/Setup_default.asp?Mode=Step3,Last Name,Nom 
+/faf/emailImport/Setup_default.asp?Mode=Step3,Email Address,Courriel
+/faf/emailImport/Setup_default.asp?Mode=Step3,-- None selected --, -- aucune sélection -- 
+/faf/emailImport/Setup_default.asp?Mode=Step3,Back,Retour
+/faf/emailImport/Setup_default.asp?Mode=Step3,Cancel,Annuler
+/faf/emailImport/Setup_DirectProcessImport.asp,Address Book Import Successful,L'importation du carnet d'adresse est réussi
+/faf/emailImport/Setup_DirectProcessImport.asp,Back to My Headquarters,Retour à 'Mon portail'
+/FAF/login/teamPageEdit.asp,Edit your Team Page,Modifier ma page d'équipe
+/FAF/login/teamPageEdit.asp,Header Text:,En-tête :
+/FAF/login/teamPageEdit.asp,Line 2,Ligne 2 
+/FAF/login/teamPageEdit.asp,Line 1,Ligne 1 
+/FAF/login/teamPageEdit.asp,Join Our Team,Rejoignez nos rangs
+/FAF/login/teamPageEdit.asp,Money Raised,Montant recueilli
+/FAF/login/teamPageEdit.asp,Recruitment Goal,Objectif de recrutement 
+/FAF/login/teamPageEdit.asp,Members Recruited,Membres recrutés 
+/FAF/login/teamPageEdit.asp,Team Fundraising Goal,Objectif de collecte de fonds de l'équipe 
+/FAF/login/teamPageEdit.asp,Total Raised,Total recueilli 
+/FAF/login/teamPageEdit.asp,Team Members,Membres de l'équipe 
+/FAF/login/teamPageEdit.asp,General Team Donation,Dons à l'équipe
+/FAF/login/teamPageEdit.asp,Select an image,Sélectionnez une image
+/FAF/login/teamPageEdit.asp,Join our team and help us support the cause!,Joignez-vous à notre équipe et aidez-nous à appuyer la cause!
+/FAF/login/teamPageEdit.asp,an image to represent your team spirit. This image will be displayed on your team page.,une image qui représente bien votre équipe. Cette image sera affichée sur la page de l'équipe.
+/FAF/login/teamPageEdit.asp,Upload,Téléchargez
+/FAF/login/teamPageEdit.asp,Caption under image,Légende 
+/FAF/login/teamPageEdit.asp,Edit the text:,Modifier le texte :
+/FAF/login/teamPageEdit.asp,Submit,Soumettre
+/FAF/login/teamPageEdit.asp,Cancel,Annuler
+/FAF/login/teamPageEdit.asp,Preview,Prévisualiser
+/FAF/login/teamPageEdit.asp,Statistics,Statistiques
+/FAF/login/teamPageEdit.asp,Close Window,Fermer
+/FAF/login/teamDonationPageEdit.asp,Caption under image,Légende 
+/FAF/login/teamDonationPageEdit.asp,Header text:,En-tête :
+/FAF/login/teamDonationPageEdit.asp,Line 2,Ligne 2 
+/FAF/login/teamDonationPageEdit.asp,Line 1,Ligne 1 
+/FAF/login/teamDonationPageEdit.asp,Edit the text:,Modifier le texte :
+/FAF/login/teamDonationPageEdit.asp,Submit,Soumettre
+/FAF/login/teamDonationPageEdit.asp,Cancel,Annuler
+/FAF/login/teamDonationPageEdit.asp,Preview,Prévisualiser
