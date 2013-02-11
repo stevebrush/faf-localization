@@ -896,3 +896,19 @@
 /FAF/login/teamDonationPageEdit.asp,Submit,Soumettre
 /FAF/login/teamDonationPageEdit.asp,Cancel,Annuler
 /FAF/login/teamDonationPageEdit.asp,Preview,Prévisualiser
+/faf/login/import_image.asp,Import or select an image below,Sélectionner une image ci-dessous ou télécharger votre propre image
+/faf/login/import_image.asp,Import your image here:,Télécharger votre image ici :
+/faf/login/import_image.asp,(You may upload up to 2 images.),(Vous pouvez télécharger un maximum de 2 images)
+/faf/login/import_image.asp,Supported formats:,Formats acceptés :
+/faf/login/import_image.asp,"When necessary, images will be ","Lorsque nécessaire, les images seront "
+/faf/login/import_image.asp,automatically resized to 100kb or less.,automatiquement redimensionnées à 100kb ou moins.
+/faf/login/import_image.asp,"If you upload two images, they will appear side-by-side on your personal page.","Si vous téléchargez 2 images, elles apparaîtront côte-à-côte sur votre page personnelle."
+/faf/login/import_image.asp,Standard Image Library,Ma bibliothèque d'images
+/faf/login/import_image.asp,First,Premier
+/faf/login/import_image.asp,Last,Dernier
+/faf/login/import_image.asp,Assign,Sélectionner
+/faf/login/import_image.asp,Click here to return,Cliquez ici pour revenir en arrière
+/faf/login/import_image.asp,My Image Library,Ma bibliothèque d'image
+/faf/login/import_image.asp,Default Image,l'image par défaut
+/faf/login/import_image.asp,Previous,Précédente
+/faf/login/import_image.asp,Next,Suivant

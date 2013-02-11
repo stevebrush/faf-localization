@@ -1874,7 +1874,7 @@ Essentials.Localize.go = function(opts) {
 				function checkLoaded() {
 					setTimeout(function() {
 						if (s.termsLoaded && s.countriesLoaded && s.statesLoaded) {
-							if ($.browser.mozilla && (m.urlContains('/faf/donorReg/donorPledge.asp') || m.urlContains('/faf/search/searchTeamPart.asp'))) { 
+							if ( $.browser.mozilla && ((m.urlContains('/faf/donorReg/donorPledge.asp') || m.urlContains('/faf/search/searchTeamPart.asp')) && !m.urlContains('&getMediaFormat'))) { 
 								// firefox is too fast for the giving popup on the team page, so delay the translation a bit
 								$(window).load(continueTranslate);
 							} else {
@@ -1887,6 +1887,7 @@ Essentials.Localize.go = function(opts) {
 				}
 				checkLoaded();
 				var continueTranslate = function() {
+					console.log("continueTranslate();");
 					m.createLanguageMenu(); console.log("createLanguageMenu() => " + m.reportTime());
 					m.filterLanguageContent(); console.log("filterLanguageContent() => " + m.reportTime());
 					m.cleanup.pages(); console.log("cleanup.pages() => " + m.reportTime());

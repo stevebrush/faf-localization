@@ -1964,7 +1964,6 @@ jQuery.fn.outerHTML = function(s) {
 })(jQuery);
 
 
-
 /*==============================================
  Name:		Localization - Format Dates
  Author:	Steve Brush
